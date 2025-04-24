@@ -97,7 +97,7 @@ class LLMManager:
 		self.__history.append({"role": "user", "content": prompt})
 		self.__history.append({"role": "assistant", "content": assistant_response})
 
-		return assistant_response
+		return assistant_response.strip()
 
 	@property
 	def history(self) -> list:
