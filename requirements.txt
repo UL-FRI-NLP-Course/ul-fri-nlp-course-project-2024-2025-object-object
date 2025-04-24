@@ -1,5 +1,8 @@
 numpy>=2.2.5
+scipy>=1.15.2
+matplotlib>=3.10.1
 networkx>=3.4.2
 torch>=2.7.0
 transformers>=4.51.3
 typeguard>=4.4.2
+ipympl>=0.9.7

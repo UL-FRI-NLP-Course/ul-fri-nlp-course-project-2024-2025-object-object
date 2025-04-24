@@ -61,7 +61,11 @@ class WikidataClient:
 			entry = {}
 			for key, meta in row.items():
 				value = meta.get('value')
-				if coordinateMatch := re.match(r"Point\(([-+]?\d*\.?\d+)\s+([-+]?\d*\.?\d+)\)", value):
+				if re.fullmatch(r"[-+]?\d+", value):
+					entry[key] = int(value)
+				elif re.fullmatch(r"[-+]?\d*\.?\d+", value):
+					entry[key] = float(value)
+				elif coordinateMatch := re.match(r"Point\(([-+]?\d*\.?\d+)\s+([-+]?\d*\.?\d+)\)", value):
 					x = float(coordinateMatch.group(1))
 					y = float(coordinateMatch.group(2))
 					entry[f"{key}_x"] = x
@@ -72,4 +76,10 @@ class WikidataClient:
 					print(f"Duplicate key {key} in row: {row}")
 			data.append(entry)
 
-		return pd.DataFrame(data)
+		df = pd.DataFrame(data)
+
+		for col in df.select_dtypes(include='object').columns:
+			df[col] = df[col].fillna('')
+			df[col] = df[col].astype('string')
+
+		return df
