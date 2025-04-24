@@ -3,7 +3,7 @@ import requests
 import time
 import pandas as pd
 
-class WikidataQuery:
+class WikidataClient:
 	"""
 	A class to execute SPARQL queries against the Wikidata Query Service.
 	"""
@@ -12,7 +12,7 @@ class WikidataQuery:
 
 	def __init__(self, endpoint_url: str = DEFAULT_ENDPOINT_URL, user_agent: str = None):
 		"""
-		Initializes the WikidataQuery class.
+		Initializes the WikidataClient class.
 
 		Args:
 			endpoint_url (str): The URL of the SPARQL endpoint.
@@ -66,8 +66,10 @@ class WikidataQuery:
 					y = float(coordinateMatch.group(2))
 					entry[f"{key}_x"] = x
 					entry[f"{key}_y"] = y
-				else:
+				elif key not in entry:
 					entry[key] = value
+				else:
+					print(f"Duplicate key {key} in row: {row}")
 			data.append(entry)
 
 		return pd.DataFrame(data)
