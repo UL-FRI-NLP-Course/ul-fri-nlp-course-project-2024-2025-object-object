@@ -3,107 +3,107 @@ from qa.question import QuestionTemplate, GraphPathStep
 TEMPLATES = [
 	# --- Simple Fact Retrieval (1-Hop) ---
 	QuestionTemplate(
-		template="V kateri statistični regiji se nahaja občina {municipality_label}?",
-		requirements={"municipality": {"type": "municipality"}},
+		template="V kateri statistični regiji se nahaja občina {občina_label}?",
+		requirements={"občina": {"type": "občina"}},
 		path=[
-			GraphPathStep(edge_type="located_in", target_node_type="region", source_variable="municipality", capture_as="answer")
+			GraphPathStep(edge_type="se_nahaja_v", target_node_type="regija", source_variable="občina", capture_as="odgovor")
 		],
-		answer_variable="answer",
+		answer_variable="odgovor",
 		answer_pattern="{target_label}"
 	),
 	QuestionTemplate(
-		template="Koliko prebivalcev ima občina {municipality_label}?",
-		requirements={"municipality": {"type": "municipality"}},
+		template="Koliko prebivalcev ima občina {občina_label}?",
+		requirements={"občina": {"type": "občina"}},
 		path=[
-			GraphPathStep(edge_type="has_population", target_node_type="population", source_variable="municipality", capture_as="answer")
+			GraphPathStep(edge_type="ima_populacijo", target_node_type="populacija", source_variable="občina", capture_as="odgovor")
 		],
-		answer_variable="answer",
+		answer_variable="odgovor",
 		answer_pattern="{target_label}"
 	),
 	QuestionTemplate(
-		template="Kakšna je površina občine {municipality_label}?",
-		requirements={"municipality": {"type": "municipality"}},
+		template="Kakšna je površina občine {občina_label}?",
+		requirements={"občina": {"type": "občina"}},
 		path=[
-			GraphPathStep(edge_type="has_area", target_node_type="area", source_variable="municipality", capture_as="answer")
+			GraphPathStep(edge_type="ima_površino", target_node_type="površina", source_variable="občina", capture_as="odgovor")
 		],
-		answer_variable="answer",
+		answer_variable="odgovor",
 		answer_pattern="{target_label} km²"
 	),
 	QuestionTemplate(
-		template="V kateri občini leži vrh {peak_label}?",
-		requirements={"peak": {"type": "mountain_peak"}},
+		template="V kateri občini leži vrh {vrh_label}?",
+		requirements={"vrh": {"type": "vrh"}},
 		path=[
-			GraphPathStep(edge_type="located_in", target_node_type="municipality", source_variable="peak", capture_as="answer")
+			GraphPathStep(edge_type="se_nahaja_v", target_node_type="občina", source_variable="vrh", capture_as="odgovor")
 		],
-		answer_variable="answer",
+		answer_variable="odgovor",
 		answer_pattern="{target_label}"
 	),
 	QuestionTemplate(
-		template="Kakšno nadmorsko višino dosega {peak_label}?",
-		requirements={"peak": {"type": "mountain_peak"}},
+		template="Kakšno nadmorsko višino dosega {vrh_label}?",
+		requirements={"vrh": {"type": "vrh"}},
 		path=[
-			GraphPathStep(edge_type="has_elevation", target_node_type="elevation", source_variable="peak", capture_as="answer")
+			GraphPathStep(edge_type="ima_višino", target_node_type="višina", source_variable="vrh", capture_as="odgovor")
 		],
-		answer_variable="answer",
+		answer_variable="odgovor",
 		answer_pattern="{target_label} m"
 	),
 	QuestionTemplate(
-		template="V kateri občini stoji grad {castle_label}?",
-		requirements={"castle": {"type": "castle"}},
+		template="V kateri občini stoji grad {grad_label}?",
+		requirements={"grad": {"type": "grad"}},
 		path=[
-			GraphPathStep(edge_type="located_in", target_node_type="municipality", source_variable="castle", capture_as="answer")
+			GraphPathStep(edge_type="se_nahaja_v", target_node_type="občina", source_variable="grad", capture_as="odgovor")
 		],
-		answer_variable="answer",
+		answer_variable="odgovor",
 		answer_pattern="{target_label}"
 	),
 	QuestionTemplate(
-		template="Pod kateri status kulturne dediščine spada grad {castle_label}?",
-		requirements={"castle": {"type": "castle"}},
+		template="Pod kateri status kulturne dediščine spada grad {grad_label}?",
+		requirements={"grad": {"type": "grad"}},
 		path=[
-			GraphPathStep(edge_type="belongs_to_heritage", target_node_type="heritage", source_variable="castle", capture_as="answer")
+			GraphPathStep(edge_type="pripada_dediščini", target_node_type="dediščina", source_variable="grad", capture_as="odgovor")
 		],
-		answer_variable="answer",
+		answer_variable="odgovor",
 		answer_pattern="{target_label}"
 	),
 	# --- Multi-Hop Retrieval (2+ Hops) ---
 	QuestionTemplate(
-		template="Kakšna je populacija občine, v kateri leži vrh {peak_label}?",
-		requirements={"peak": {"type": "mountain_peak"}},
+		template="Kakšna je populacija občine, v kateri leži vrh {vrh_label}?",
+		requirements={"vrh": {"type": "vrh"}},
 		path=[
-			GraphPathStep(edge_type="located_in", target_node_type="municipality", source_variable="peak", capture_as="mun"),
-			GraphPathStep(edge_type="has_population", target_node_type="population", source_variable="mun", capture_as="answer")
+			GraphPathStep(edge_type="se_nahaja_v", target_node_type="občina", source_variable="vrh", capture_as="mun"),
+			GraphPathStep(edge_type="ima_populacijo", target_node_type="populacija", source_variable="mun", capture_as="odgovor")
 		],
-		answer_variable="answer",
+		answer_variable="odgovor",
 		answer_pattern="{target_label}"
 	),
 	QuestionTemplate(
-		template="Kakšna je površina občine, kjer stoji grad {castle_label}?",
-		requirements={"castle": {"type": "castle"}},
+		template="Kakšna je površina občine, kjer stoji grad {grad_label}?",
+		requirements={"grad": {"type": "grad"}},
 		path=[
-			GraphPathStep(edge_type="located_in", target_node_type="municipality", source_variable="castle", capture_as="mun"),
-			GraphPathStep(edge_type="has_area", target_node_type="area", source_variable="mun", capture_as="answer")
+			GraphPathStep(edge_type="se_nahaja_v", target_node_type="občina", source_variable="grad", capture_as="mun"),
+			GraphPathStep(edge_type="ima_površino", target_node_type="površina", source_variable="mun", capture_as="odgovor")
 		],
-		answer_variable="answer",
+		answer_variable="odgovor",
 		answer_pattern="{target_label} km²"
 	),
 	QuestionTemplate(
-		template="V kateri statistični regiji leži vrh {peak_label}?",
-		requirements={"peak": {"type": "mountain_peak"}},
+		template="V kateri statistični regiji leži vrh {vrh_label}?",
+		requirements={"vrh": {"type": "vrh"}},
 		path=[
-			GraphPathStep(edge_type="located_in", target_node_type="municipality", source_variable="peak", capture_as="mun"),
-			GraphPathStep(edge_type="located_in", target_node_type="region", source_variable="mun", capture_as="answer")
+			GraphPathStep(edge_type="se_nahaja_v", target_node_type="občina", source_variable="vrh", capture_as="mun"),
+			GraphPathStep(edge_type="se_nahaja_v", target_node_type="regija", source_variable="mun", capture_as="odgovor")
 		],
-		answer_variable="answer",
+		answer_variable="odgovor",
 		answer_pattern="{target_label}"
 	),
 	QuestionTemplate(
-		template="V kateri statistični regiji stoji grad {castle_label}?",
-		requirements={"castle": {"type": "castle"}},
+		template="V kateri statistični regiji stoji grad {grad_label}?",
+		requirements={"grad": {"type": "grad"}},
 		path=[
-			GraphPathStep(edge_type="located_in", target_node_type="municipality", source_variable="castle", capture_as="mun"),
-			GraphPathStep(edge_type="located_in", target_node_type="region", source_variable="mun", capture_as="answer")
+			GraphPathStep(edge_type="se_nahaja_v", target_node_type="občina", source_variable="grad", capture_as="mun"),
+			GraphPathStep(edge_type="se_nahaja_v", target_node_type="regija", source_variable="mun", capture_as="odgovor")
 		],
-		answer_variable="answer",
+		answer_variable="odgovor",
 		answer_pattern="{target_label}"
 	)
 ]
