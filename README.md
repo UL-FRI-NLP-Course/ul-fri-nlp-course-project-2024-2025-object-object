@@ -8,6 +8,5 @@ This project explores techniques for improving Large Language Models (LLMs) by i
 
 - `/docs/`: Project documentation, literature review, and methodology details.
 - `/data/`: Processed dataset files containing Slovenian linguistic data and knowledge graphs.
-- `/notebooks/`: Jupyter notebooks for data analysis, preprocessing.
 - `/src/`: Source code for implementing KG integration techniques and model evaluation.
 - `/results/`: Performance analysis, evaluation reports, and visualizations.
