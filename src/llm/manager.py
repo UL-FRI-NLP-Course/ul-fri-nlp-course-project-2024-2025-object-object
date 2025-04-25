@@ -19,13 +19,11 @@ class LLMModel:
 		else:
 			device = torch.device("cpu")
 
-		# For chat models, using the pipeline is often easier as it handles formatting.
-		# Trust remote code if necessary for this specific model architecture
 		self.pipeline = pipeline(
 			"text-generation",
 			model=self.model_id,
-			torch_dtype=torch.bfloat16 if device.type != 'mps' else torch.float16, # bfloat16 often faster, but check compatibility. float16 for MPS.
-			device=device, # Explicitly set device
+			torch_dtype=torch.bfloat16 if device.type != 'mps' else torch.float16,
+			device=device,
 		)
 
 @typechecked
@@ -43,30 +41,8 @@ class LLMManager:
 		"""
 		self.model = model
 		self.track_history = track_history
-		self.__history = [] # Stores conversation history [{role: 'user', content: '...'}, {role: 'assistant', content: '...'}]
-
-	def _preprocess_text(self, text: str) -> set:
-		"""
-		Basic text preprocessing for evaluation: lowercase, remove punctuation,
-		tokenize, remove stopwords.
-
-		Args:
-			text (str): The text to preprocess.
-
-		Returns:
-			set: A set of unique, relevant tokens from the text.
-		"""
-		text = text.lower()
-		# Remove punctuation more thoroughly
-		text = text.translate(str.maketrans('', '', string.punctuation))
-		# Simple whitespace tokenization
-		tokens = text.split()
-		# Remove stopwords and short tokens (optional)
-		processed_tokens = {
-			token for token in tokens
-			if token not in SLOVENE_STOPWORDS and len(token) > 1
-		}
-		return processed_tokens
+		# Stores conversation history [{role: 'user', content: '...'}, {role: 'assistant', content: '...'}]
+		self.__history = []
 
 	def ask(self, prompt: str, max_new_tokens: int = 500) -> str:
 		"""
