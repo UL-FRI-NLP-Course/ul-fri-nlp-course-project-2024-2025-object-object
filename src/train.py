@@ -7,6 +7,9 @@ model_id = "cjvt/GaMS-1B"
 
 # 1. Naloži tokenizer & model
 tokenizer = AutoTokenizer.from_pretrained(model_id)
+if tokenizer.pad_token is None:
+    tokenizer.pad_token = tokenizer.eos_token
+
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
     device_map="auto",
@@ -30,14 +33,22 @@ peft_config = LoraConfig(
 model = get_peft_model(model, peft_config)
 
 # 4. Naloži podatke
-dataset = load_dataset("json", data_files="data/slovenian_qa.jsonl")["train"]
+dataset = load_dataset("json", data_files="../data/slovenian_qa_training.jsonl")["train"]
+
+def format_example(example):
+    """Kombinira instruction, input in output v en tekst"""
+    text = f"{example['instruction']}\n\n{example['input']}\n\n{example['output']}"
+    return {"text": text}
 
 def tokenize(example):
+    """Tokenizira formatirane podatke"""
     return tokenizer(example["text"], truncation=True, padding="max_length", max_length=512)
 
-tokenized_dataset = dataset.map(tokenize, batched=True)
+# 5. Formatiraj in tokeniziraj podatke
+formatted_dataset = dataset.map(format_example, batched=False)
+tokenized_dataset = formatted_dataset.map(tokenize, batched=True)
 
-# 5. Argumenti treninga
+# 6. Argumenti treninga
 training_args = TrainingArguments(
     output_dir="outputs",
     per_device_train_batch_size=2,
