@@ -30,7 +30,7 @@ peft_config = LoraConfig(
 model = get_peft_model(model, peft_config)
 
 # 4. Naloži podatke
-dataset = load_dataset("json", data_files="data/slovenian_qa.jsonl")["train"]
+dataset = load_dataset("json", data_files="../data/slovenian_qa_training.jsonl")["train"]
 
 def tokenize(example):
     return tokenizer(example["text"], truncation=True, padding="max_length", max_length=512)
