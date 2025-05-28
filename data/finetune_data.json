@@ -1,114 +1,1282 @@
 [
   {
-    "prompt": "Kateri samostalniki se sklanjajo po prvi moški sklanjatvi?",
-    "response": "To so samostalniki moškega spola, kot so: oče, stric, fant, ki imajo značilne končnice -a, -u, -om ..."
+    "prompt": "Kaj veš o preteklik?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj izražajo glagoli v slovenščini?",
-    "response": "Glagoli izražajo dejanja, dogajanja ali stanja. Na primer: teči, misliti, biti."
+    "prompt": "Kako se uporablja preteklik?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj so pridevniki in kako se uporabljajo?",
-    "response": "Pridevniki opisujejo lastnosti samostalnikov, npr. 'lep dan', 'zanimiva knjiga'."
+    "prompt": "Kako deluje preteklik v slovenščini?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Katera je množinska oblika besede 'mesto'?",
-    "response": "Množinska oblika besede 'mesto' je 'mesta'."
+    "prompt": "Daj primer za preteklik.",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj pomeni sklanjanje v slovenščini?",
-    "response": "Sklanjanje je spreminjanje oblike besed (kot so samostalniki, pridevniki) glede na sklon, število in spol."
+    "prompt": "Ali obstajajo izjeme pri preteklik?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kateri zaimki se uporabljajo za prvo osebo ednine?",
-    "response": "Za prvo osebo ednine se uporablja zaimek 'jaz'."
+    "prompt": "Zakaj je preteklik pomembna?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj pomeni preteklik v slovenščini?",
-    "response": "Preteklik izraža dejanje, ki se je že zgodilo, npr. 'šel sem', 'pisala je'."
+    "prompt": "Kako razložiš preteklik s primeri?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o moški obliki pri samostalniki?",
-    "response": "Moški oblika pri samostalniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kakšna pravila veljajo za preteklik?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o ženski obliki pri samostalniki?",
-    "response": "Ženski oblika pri samostalniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kakšna je vloga preteklik v stavku?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o srednji obliki pri samostalniki?",
-    "response": "Srednji oblika pri samostalniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kdaj uporabimo preteklik?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o preteklik obliki pri glagoli?",
-    "response": "Preteklik oblika pri glagoli se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "V čem se razlikuje preteklik od drugih oblik?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o sedanjik obliki pri glagoli?",
-    "response": "Sedanjik oblika pri glagoli se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kako prepoznamo preteklik?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o prihodnjik obliki pri glagoli?",
-    "response": "Prihodnjik oblika pri glagoli se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kaj označuje preteklik?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o barva obliki pri pridevniki?",
-    "response": "Barva oblika pri pridevniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Katera je najpogostejša uporaba za preteklik?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o velikost obliki pri pridevniki?",
-    "response": "Velikost oblika pri pridevniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kakšna vprašanja lahko postavimo glede preteklik?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o oblika obliki pri pridevniki?",
-    "response": "Oblika oblika pri pridevniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kako bi razložil preteklik učencu?",
+    "response": "Preteklik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o prva oseba obliki pri zaimki?",
-    "response": "Prva oseba oblika pri zaimki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kaj veš o sedanjik?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o druga oseba obliki pri zaimki?",
-    "response": "Druga oseba oblika pri zaimki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kako se uporablja sedanjik?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o tretja oseba obliki pri zaimki?",
-    "response": "Tretja oseba oblika pri zaimki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kako deluje sedanjik v slovenščini?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o glavni obliki pri števniki?",
-    "response": "Glavni oblika pri števniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Daj primer za sedanjik.",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o vrstilni obliki pri števniki?",
-    "response": "Vrstilni oblika pri števniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Ali obstajajo izjeme pri sedanjik?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o množinski obliki pri števniki?",
-    "response": "Množinski oblika pri števniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Zakaj je sedanjik pomembna?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o enostavni obliki pri stavki?",
-    "response": "Enostavni oblika pri stavki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kako razložiš sedanjik s primeri?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o zloženi obliki pri stavki?",
-    "response": "Zloženi oblika pri stavki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kakšna pravila veljajo za sedanjik?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o povedni obliki pri stavki?",
-    "response": "Povedni oblika pri stavki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kakšna je vloga sedanjik v stavku?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o prva obliki pri sklanjatve?",
-    "response": "Prva oblika pri sklanjatve se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kdaj uporabimo sedanjik?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o druga obliki pri sklanjatve?",
-    "response": "Druga oblika pri sklanjatve se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "V čem se razlikuje sedanjik od drugih oblik?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   },
   {
-    "prompt": "Kaj veš o tretja obliki pri sklanjatve?",
-    "response": "Tretja oblika pri sklanjatve se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+    "prompt": "Kako prepoznamo sedanjik?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje sedanjik?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za sedanjik?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede sedanjik?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil sedanjik učencu?",
+    "response": "Sedanjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o prihodnjik?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja prihodnjik?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje prihodnjik v slovenščini?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za prihodnjik.",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri prihodnjik?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je prihodnjik pomembna?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš prihodnjik s primeri?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za prihodnjik?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga prihodnjik v stavku?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo prihodnjik?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje prihodnjik od drugih oblik?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo prihodnjik?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje prihodnjik?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za prihodnjik?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede prihodnjik?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil prihodnjik učencu?",
+    "response": "Prihodnjik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o vrstilni števniki?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja vrstilni števniki?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje vrstilni števniki v slovenščini?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za vrstilni števniki.",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri vrstilni števniki?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je vrstilni števniki pomembna?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš vrstilni števniki s primeri?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za vrstilni števniki?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga vrstilni števniki v stavku?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo vrstilni števniki?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje vrstilni števniki od drugih oblik?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo vrstilni števniki?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje vrstilni števniki?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za vrstilni števniki?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede vrstilni števniki?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil vrstilni števniki učencu?",
+    "response": "Vrstilni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o glavni števniki?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja glavni števniki?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje glavni števniki v slovenščini?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za glavni števniki.",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri glavni števniki?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je glavni števniki pomembna?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš glavni števniki s primeri?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za glavni števniki?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga glavni števniki v stavku?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo glavni števniki?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje glavni števniki od drugih oblik?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo glavni števniki?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje glavni števniki?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za glavni števniki?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede glavni števniki?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil glavni števniki učencu?",
+    "response": "Glavni števniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o barvni pridevniki?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja barvni pridevniki?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje barvni pridevniki v slovenščini?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za barvni pridevniki.",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri barvni pridevniki?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je barvni pridevniki pomembna?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš barvni pridevniki s primeri?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za barvni pridevniki?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga barvni pridevniki v stavku?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo barvni pridevniki?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje barvni pridevniki od drugih oblik?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo barvni pridevniki?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje barvni pridevniki?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za barvni pridevniki?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede barvni pridevniki?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil barvni pridevniki učencu?",
+    "response": "Barvni pridevniki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o stopnjevanje pridevnikov?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja stopnjevanje pridevnikov?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje stopnjevanje pridevnikov v slovenščini?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za stopnjevanje pridevnikov.",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri stopnjevanje pridevnikov?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je stopnjevanje pridevnikov pomembna?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš stopnjevanje pridevnikov s primeri?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za stopnjevanje pridevnikov?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga stopnjevanje pridevnikov v stavku?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo stopnjevanje pridevnikov?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje stopnjevanje pridevnikov od drugih oblik?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo stopnjevanje pridevnikov?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje stopnjevanje pridevnikov?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za stopnjevanje pridevnikov?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede stopnjevanje pridevnikov?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil stopnjevanje pridevnikov učencu?",
+    "response": "Stopnjevanje pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o zaimki v prvi osebi?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja zaimki v prvi osebi?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje zaimki v prvi osebi v slovenščini?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za zaimki v prvi osebi.",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri zaimki v prvi osebi?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je zaimki v prvi osebi pomembna?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš zaimki v prvi osebi s primeri?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za zaimki v prvi osebi?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga zaimki v prvi osebi v stavku?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo zaimki v prvi osebi?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje zaimki v prvi osebi od drugih oblik?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo zaimki v prvi osebi?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje zaimki v prvi osebi?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za zaimki v prvi osebi?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede zaimki v prvi osebi?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil zaimki v prvi osebi učencu?",
+    "response": "Zaimki v prvi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o zaimki v drugi osebi?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja zaimki v drugi osebi?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje zaimki v drugi osebi v slovenščini?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za zaimki v drugi osebi.",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri zaimki v drugi osebi?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je zaimki v drugi osebi pomembna?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš zaimki v drugi osebi s primeri?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za zaimki v drugi osebi?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga zaimki v drugi osebi v stavku?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo zaimki v drugi osebi?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje zaimki v drugi osebi od drugih oblik?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo zaimki v drugi osebi?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje zaimki v drugi osebi?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za zaimki v drugi osebi?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede zaimki v drugi osebi?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil zaimki v drugi osebi učencu?",
+    "response": "Zaimki v drugi osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o zaimki v tretji osebi?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja zaimki v tretji osebi?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje zaimki v tretji osebi v slovenščini?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za zaimki v tretji osebi.",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri zaimki v tretji osebi?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je zaimki v tretji osebi pomembna?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš zaimki v tretji osebi s primeri?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za zaimki v tretji osebi?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga zaimki v tretji osebi v stavku?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo zaimki v tretji osebi?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje zaimki v tretji osebi od drugih oblik?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo zaimki v tretji osebi?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje zaimki v tretji osebi?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za zaimki v tretji osebi?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede zaimki v tretji osebi?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil zaimki v tretji osebi učencu?",
+    "response": "Zaimki v tretji osebi ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o sklanjanje samostalnikov?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja sklanjanje samostalnikov?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje sklanjanje samostalnikov v slovenščini?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za sklanjanje samostalnikov.",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri sklanjanje samostalnikov?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je sklanjanje samostalnikov pomembna?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš sklanjanje samostalnikov s primeri?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za sklanjanje samostalnikov?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga sklanjanje samostalnikov v stavku?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo sklanjanje samostalnikov?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje sklanjanje samostalnikov od drugih oblik?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo sklanjanje samostalnikov?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje sklanjanje samostalnikov?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za sklanjanje samostalnikov?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede sklanjanje samostalnikov?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil sklanjanje samostalnikov učencu?",
+    "response": "Sklanjanje samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o spol samostalnikov?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja spol samostalnikov?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje spol samostalnikov v slovenščini?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za spol samostalnikov.",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri spol samostalnikov?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je spol samostalnikov pomembna?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš spol samostalnikov s primeri?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za spol samostalnikov?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga spol samostalnikov v stavku?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo spol samostalnikov?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje spol samostalnikov od drugih oblik?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo spol samostalnikov?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje spol samostalnikov?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za spol samostalnikov?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede spol samostalnikov?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil spol samostalnikov učencu?",
+    "response": "Spol samostalnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o sklon pridevnikov?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja sklon pridevnikov?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje sklon pridevnikov v slovenščini?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za sklon pridevnikov.",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri sklon pridevnikov?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je sklon pridevnikov pomembna?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš sklon pridevnikov s primeri?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za sklon pridevnikov?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga sklon pridevnikov v stavku?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo sklon pridevnikov?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje sklon pridevnikov od drugih oblik?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo sklon pridevnikov?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje sklon pridevnikov?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za sklon pridevnikov?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede sklon pridevnikov?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil sklon pridevnikov učencu?",
+    "response": "Sklon pridevnikov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o negacija glagolov?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja negacija glagolov?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje negacija glagolov v slovenščini?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za negacija glagolov.",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri negacija glagolov?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je negacija glagolov pomembna?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš negacija glagolov s primeri?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za negacija glagolov?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga negacija glagolov v stavku?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo negacija glagolov?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje negacija glagolov od drugih oblik?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo negacija glagolov?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje negacija glagolov?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za negacija glagolov?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede negacija glagolov?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil negacija glagolov učencu?",
+    "response": "Negacija glagolov ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o povedni način?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja povedni način?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje povedni način v slovenščini?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za povedni način.",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri povedni način?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je povedni način pomembna?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš povedni način s primeri?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za povedni način?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga povedni način v stavku?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo povedni način?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje povedni način od drugih oblik?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo povedni način?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje povedni način?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za povedni način?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede povedni način?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil povedni način učencu?",
+    "response": "Povedni način ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o povratni glagoli?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja povratni glagoli?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje povratni glagoli v slovenščini?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za povratni glagoli.",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri povratni glagoli?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je povratni glagoli pomembna?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš povratni glagoli s primeri?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za povratni glagoli?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga povratni glagoli v stavku?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo povratni glagoli?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje povratni glagoli od drugih oblik?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo povratni glagoli?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje povratni glagoli?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za povratni glagoli?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede povratni glagoli?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil povratni glagoli učencu?",
+    "response": "Povratni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o pogojni stavki?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja pogojni stavki?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje pogojni stavki v slovenščini?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za pogojni stavki.",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri pogojni stavki?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je pogojni stavki pomembna?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš pogojni stavki s primeri?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za pogojni stavki?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga pogojni stavki v stavku?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo pogojni stavki?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje pogojni stavki od drugih oblik?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo pogojni stavki?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje pogojni stavki?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za pogojni stavki?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede pogojni stavki?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil pogojni stavki učencu?",
+    "response": "Pogojni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o sestavljeni stavki?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja sestavljeni stavki?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje sestavljeni stavki v slovenščini?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za sestavljeni stavki.",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri sestavljeni stavki?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je sestavljeni stavki pomembna?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš sestavljeni stavki s primeri?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za sestavljeni stavki?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga sestavljeni stavki v stavku?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo sestavljeni stavki?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje sestavljeni stavki od drugih oblik?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo sestavljeni stavki?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje sestavljeni stavki?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za sestavljeni stavki?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede sestavljeni stavki?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil sestavljeni stavki učencu?",
+    "response": "Sestavljeni stavki ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o neosebni glagoli?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja neosebni glagoli?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje neosebni glagoli v slovenščini?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za neosebni glagoli.",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri neosebni glagoli?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je neosebni glagoli pomembna?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš neosebni glagoli s primeri?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za neosebni glagoli?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga neosebni glagoli v stavku?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo neosebni glagoli?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje neosebni glagoli od drugih oblik?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo neosebni glagoli?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje neosebni glagoli?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za neosebni glagoli?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede neosebni glagoli?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil neosebni glagoli učencu?",
+    "response": "Neosebni glagoli ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj veš o nedoločnik?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako se uporablja nedoločnik?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako deluje nedoločnik v slovenščini?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Daj primer za nedoločnik.",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Ali obstajajo izjeme pri nedoločnik?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Zakaj je nedoločnik pomembna?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako razložiš nedoločnik s primeri?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna pravila veljajo za nedoločnik?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna je vloga nedoločnik v stavku?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kdaj uporabimo nedoločnik?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "V čem se razlikuje nedoločnik od drugih oblik?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako prepoznamo nedoločnik?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kaj označuje nedoločnik?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Katera je najpogostejša uporaba za nedoločnik?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kakšna vprašanja lahko postavimo glede nedoločnik?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
+  },
+  {
+    "prompt": "Kako bi razložil nedoločnik učencu?",
+    "response": "Nedoločnik ima pomembno vlogo v slovenski slovnici. Uporablja se glede na slovnična pravila, kot so število, sklon in čas. Primer: ... "
   }
 ]
