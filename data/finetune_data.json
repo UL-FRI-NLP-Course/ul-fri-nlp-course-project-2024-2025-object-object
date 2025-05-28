@@ -1,0 +1,114 @@
+[
+  {
+    "prompt": "Kateri samostalniki se sklanjajo po prvi moški sklanjatvi?",
+    "response": "To so samostalniki moškega spola, kot so: oče, stric, fant, ki imajo značilne končnice -a, -u, -om ..."
+  },
+  {
+    "prompt": "Kaj izražajo glagoli v slovenščini?",
+    "response": "Glagoli izražajo dejanja, dogajanja ali stanja. Na primer: teči, misliti, biti."
+  },
+  {
+    "prompt": "Kaj so pridevniki in kako se uporabljajo?",
+    "response": "Pridevniki opisujejo lastnosti samostalnikov, npr. 'lep dan', 'zanimiva knjiga'."
+  },
+  {
+    "prompt": "Katera je množinska oblika besede 'mesto'?",
+    "response": "Množinska oblika besede 'mesto' je 'mesta'."
+  },
+  {
+    "prompt": "Kaj pomeni sklanjanje v slovenščini?",
+    "response": "Sklanjanje je spreminjanje oblike besed (kot so samostalniki, pridevniki) glede na sklon, število in spol."
+  },
+  {
+    "prompt": "Kateri zaimki se uporabljajo za prvo osebo ednine?",
+    "response": "Za prvo osebo ednine se uporablja zaimek 'jaz'."
+  },
+  {
+    "prompt": "Kaj pomeni preteklik v slovenščini?",
+    "response": "Preteklik izraža dejanje, ki se je že zgodilo, npr. 'šel sem', 'pisala je'."
+  },
+  {
+    "prompt": "Kaj veš o moški obliki pri samostalniki?",
+    "response": "Moški oblika pri samostalniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o ženski obliki pri samostalniki?",
+    "response": "Ženski oblika pri samostalniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o srednji obliki pri samostalniki?",
+    "response": "Srednji oblika pri samostalniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o preteklik obliki pri glagoli?",
+    "response": "Preteklik oblika pri glagoli se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o sedanjik obliki pri glagoli?",
+    "response": "Sedanjik oblika pri glagoli se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o prihodnjik obliki pri glagoli?",
+    "response": "Prihodnjik oblika pri glagoli se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o barva obliki pri pridevniki?",
+    "response": "Barva oblika pri pridevniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o velikost obliki pri pridevniki?",
+    "response": "Velikost oblika pri pridevniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o oblika obliki pri pridevniki?",
+    "response": "Oblika oblika pri pridevniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o prva oseba obliki pri zaimki?",
+    "response": "Prva oseba oblika pri zaimki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o druga oseba obliki pri zaimki?",
+    "response": "Druga oseba oblika pri zaimki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o tretja oseba obliki pri zaimki?",
+    "response": "Tretja oseba oblika pri zaimki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o glavni obliki pri števniki?",
+    "response": "Glavni oblika pri števniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o vrstilni obliki pri števniki?",
+    "response": "Vrstilni oblika pri števniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o množinski obliki pri števniki?",
+    "response": "Množinski oblika pri števniki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o enostavni obliki pri stavki?",
+    "response": "Enostavni oblika pri stavki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o zloženi obliki pri stavki?",
+    "response": "Zloženi oblika pri stavki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o povedni obliki pri stavki?",
+    "response": "Povedni oblika pri stavki se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o prva obliki pri sklanjatve?",
+    "response": "Prva oblika pri sklanjatve se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o druga obliki pri sklanjatve?",
+    "response": "Druga oblika pri sklanjatve se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  },
+  {
+    "prompt": "Kaj veš o tretja obliki pri sklanjatve?",
+    "response": "Tretja oblika pri sklanjatve se uporablja glede na slovnične značilnosti. Primeri vključujejo tipične končnice, rabo v stavkih in spremembe glede na število in sklon."
+  }
+]
