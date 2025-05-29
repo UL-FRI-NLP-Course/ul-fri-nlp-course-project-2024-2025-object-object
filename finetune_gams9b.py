@@ -14,16 +14,17 @@ MODEL_ID = "cjvt/GaMS-9B"
 DATA_PATH = "data/finetune_data.json"
 OUTPUT_DIR = "finetuned-gams9b"
 BATCH_SIZE = 1
-EPOCHS = 3
-MAX_LENGTH = 512
+EPOCHS = 1
+MAX_LENGTH = 256
 
-# === LOAD TOKENIZER AND MODEL ===
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
 model = AutoModelForCausalLM.from_pretrained(
     MODEL_ID,
-    torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32
+    torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
+    attn_implementation="eager"
 )
 
+model.config.use_cache = False
 raw_dataset = load_dataset("json", data_files={"train": DATA_PATH})["train"]
 
 def tokenize(example):
@@ -31,7 +32,6 @@ def tokenize(example):
     encoded = tokenizer(prompt, truncation=True, padding="max_length", max_length=MAX_LENGTH)
     encoded["labels"] = encoded["input_ids"].copy()
     return encoded
-
 
 tokenized_dataset = raw_dataset.map(tokenize)
 
@@ -43,7 +43,6 @@ training_args = TrainingArguments(
     logging_dir=os.path.join(OUTPUT_DIR, "logs"),
     logging_steps=10,
     save_strategy="epoch",
-    evaluation_strategy="no",
     save_total_limit=2,
     fp16=True,
     gradient_checkpointing=True,
