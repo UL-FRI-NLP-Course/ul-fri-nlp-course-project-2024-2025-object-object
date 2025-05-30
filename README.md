@@ -30,6 +30,20 @@ To get started with the project, follow these steps:
    pip install -r requirements.txt
    ```
 
+#### Note
+
+If you encounter issues with the virtual environment being recognized by the Jupyter Notebook, you can export the notebook to a Python script and run it directly.
+
 ### Dataset Preparation
 
-An example notebook for how to generate a knowledge graph can be found in the `src/knowledge_graph.ipynb` file. This notebook demonstrates how to process the raw data and create a knowledge graph from it. If you are having issues running the notebook using the virtual environment, export the notebook to a Python script and run it directly.
+An example notebook for how to generate a knowledge graph can be found in the `src/knowledge_graph.ipynb` file. The process does not require a GPU, but it does require an internet connection to download the necessary data from Wikidata using our proprietary client. If you do not want to run the notebook, you can view the output data in the `data/municipalities_peaks_castles.graphml` file, which is used for downstream tasks as well.
+
+### Questions & Answers Generation
+
+An example notebook for how to generate questions and answers from the knowledge graph can be found in the `src/qa_generation.ipynb` file. The process does not require a GPU and does not require an internet connection, however the `data/municipalities_peaks_castles.graphml` file must be present.
+
+### Evaluation
+
+#### RAG Method
+
+An example notebook for how to evaluate the RAG method can be found in the `src/rag_evaluation.ipynb` file. The process requires a GPU but no internet connection. The `data/municipalities_peaks_castles.graphml` file must be present, as questions are generated inline.
