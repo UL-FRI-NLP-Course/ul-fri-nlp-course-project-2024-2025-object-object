@@ -124,6 +124,17 @@ Finetuning was implemented using HuggingFace’s Trainer API with half-precision
 
 While this component of the pipeline could not be finalized, we include it in the report to demonstrate the feasibility of the approach and to document the encountered limitations. In theory, finetuning offers the model a chance to learn domain-specific patterns and phrasing present in our generated graph-based examples. In contrast to RAG, which augments retrieval at inference time, finetuning aims to internalize this reasoning capability and is expected to generalize better on structured queries grounded in our knowledge graph.
 
+<<<<<<< HEAD
+=======
+\subsection*{LoRA Fine-tuning}
+
+Due to the computational constraints encountered with full fine-tuning of the 9B parameter model, we implemented an alternative approach using Low-Rank Adaptation (LoRA) on the smaller \texttt{cjvt/GaMS-1B} model. LoRA enables parameter-efficient fine-tuning by decomposing weight updates into low-rank matrices, significantly reducing memory requirements while maintaining the potential for effective adaptation.
+
+We configured LoRA with a rank of 8, alpha value of 16, and targeted the query and value projection layers (\texttt{q\_proj}, \texttt{v\_proj}) with a dropout rate of 0.05. The training dataset consisted of 5,000 question-answer pairs automatically generated from our knowledge graph, formatted as direct question-answer pairs without explicit contextual information. This "knowledge integration" approach aims to internalize factual knowledge directly into the model parameters rather than relying on external retrieval.
+
+The training process utilized 4-bit quantization and half-precision floating point (\texttt{fp16}) to optimize memory usage, with a batch size of 2 and gradient accumulation over 4 steps. Training was conducted for 3 epochs using the Hugging Face Trainer API, with models saved at each epoch to monitor progress and prevent overfitting.
+
+>>>>>>> gams_lora
 \section*{Results}
 
 \subsection*{RAG}
@@ -131,6 +142,17 @@ While this component of the pipeline could not be finalized, we include it in th
 The integration of a knowledge graph into our Retrieval Augmented Generation (RAG) system demonstrably enhanced performance by providing a structured and contextually rich source for information retrieval. As a result, the relevance and factuality of the generated outputs saw a significant increase, generally achieving a near perfect score of 100\% in accuracy, though we should note that the validation set is quite small, only on the order of hundreds of examples, due to the fact that evaluation has been done manually in the second step of our evaluation procedure. A perfect score is a massive jump compared to sub 10\% accuracy of the model on its own.
 
 Furthermore, the knowledge graph enabled more sophisticated reasoning capabilities, allowing the RAG model to synthesize information from multiple, interconnected data points to answer complex queries that previously yielded incomplete or superficial answers. This was particularly evident in scenarios requiring an understanding of multi-hop relationships or hierarchical structures between entities provided in the prompt. Initial observations therefore point towards a marked improvement in overall answer quality and correctness, indicated by our results.
+<<<<<<< HEAD
+=======
+
+\subsection*{LoRA Fine-tuning}
+
+Our LoRA implementation utilized a rank of 8, alpha value of 16, and targeted the query and value projection layers (\texttt{q\_proj}, \texttt{v\_proj}) with a dropout rate of 0.05. The training dataset consisted of 5,000 question-answer pairs automatically generated from our knowledge graph using predefined templates, where each example contained only a direct question (e.g., "V kateri regiji se nahaja Ljubljana?") paired with its corresponding answer, without explicit contextual facts in the prompt.
+
+This approach, termed "knowledge integration," aims to internalize factual knowledge directly into the model's parameters rather than relying on external retrieval at inference time. The model was trained for 3 epochs using 4-bit quantization, gradient accumulation, and half-precision floating point (\texttt{fp16}) to optimize memory usage on available hardware. Training completed after 1875 steps with a batch size of 2, achieving a final training loss that fluctuated between 0.75-0.83 in the final epochs.
+
+Evaluation through our testing revealed that the LoRA fine-tuned model showed modest improvement over the base model. While the model demonstrated some learning capacity and occasionally provided more relevant responses compared to the base model, it frequently failed to provide correct answers when tested on geographical questions about Slovenia without explicit context. The limited success suggests that while the knowledge integration approach shows promise, the training dataset of 5,000 question-answer pairs may have been insufficient for effective knowledge internalization. We suspect that significantly more training data would be required to achieve robust performance on factual geographical information. The model's performance indicated that simply fine-tuning on question-answer pairs without explicit context, particularly with limited training examples, may not be sufficient for comprehensive knowledge internalization. Despite the computational efficiency of the LoRA approach, the results suggest that either larger training datasets or alternative methods such as retrieval-augmented generation (RAG) may be more effective for incorporating structured knowledge into language models for domain-specific question answering tasks.
+>>>>>>> gams_lora
 
 \bibliographystyle{unsrt}
 \bibliography{report}
