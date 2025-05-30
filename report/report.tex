@@ -50,7 +50,7 @@
 \affiliation{\textit{Advisor: Slavko Žitnik}}
 
 % Keywords
-\Keywords{LLMs, Knowledge Graphs, Slovenian Linguistics, Integration, Reasoning}
+\Keywords{LLMs, Knowledge Graphs, Wikidata, RAG, Finetuning, LoRA, Reasoning}
 \newcommand{\keywordname}{Keywords}
 
 
@@ -59,7 +59,7 @@
 %----------------------------------------------------------------------------------------
 
 \Abstract{
-This project explores integrating structured knowledge into Large Language Models (LLMs) to improve reasoning. We focus on incorporating knowledge graphs (KGs), particularly Slovenian linguistic data, to enhance question answering. We explore direct input augmentation, graph embedding-based integration, and attention-based fusion techniques. This report presents initial ideas and methods for integration, evaluating their impact on model performance. The project leverages the Slovenian Digital Dictionary Database to provide structured linguistic information to the LLM.
+This project explores integrating structured knowledge into Large Language Models (LLMs) to improve reasoning. We focus on incorporating knowledge graphs (KGs), particularly focusing on a subset of Wikidata's data about the Slovenian counties, cities, castles, rivers and mountain peaks, to enhance question answering. We explore direct input augmentation, model finetuning and LoRA based model augmentation. This report presents our approaches and methods, as well as evaluation of their impact on question answering performance.
 }
 
 %----------------------------------------------------------------------------------------
@@ -82,10 +82,10 @@ This project explores integrating structured knowledge into Large Language Model
 \section*{Introduction}
 Large Language Models (LLMs) have significantly advanced natural language understanding and generation. However, these models often struggle with complex reasoning tasks that require structured knowledge. This project explores techniques for integrating knowledge graphs (KGs) into LLMs to enhance their ability to accurately answer complex questions.
 
-Our focus is on incorporating structured Slovenian linguistic data into LLMs via KGs. By leveraging semantic relationships within the Slovenian Digital Dictionary Database and other linguistic sources, we aim to improve model performance in accuracy and reasoning. This project will evaluate different integration techniques and their impact.
+Our focus is on incorporating structured data about the Slovenian counties, cities, castles, rivers and mountain peaks into LLMs via KGs. By leveraging semantic relationships between aforementioned entities, we aim to improve the model's performance in accuracy and reasoning. This project will evaluate different integration techniques and their impact.
 
 \section*{Related Work}
-Several studies have explored combining knowledge graphs and LLMs to improve reasoning and language understanding. Key works include:
+Several previous studies have explored how to combine knowledge graphs and LLMs to improve reasoning and language understanding. Key works include:
 
 \begin{itemize}[noitemsep]
     \item \textbf{GraphGPT: Graph Instruction Tuning for Large Language Models} \cite{Tang2024GraphGPT}: Tang et al. (2024) explored tuning LLMs with graph-structured data, demonstrating the benefits of structured knowledge in language generation.
@@ -96,29 +96,41 @@ Several studies have explored combining knowledge graphs and LLMs to improve rea
     \item \textbf{InfuserKI: Enhancing Large Language Models with Knowledge Graphs via Infuser-Guided Knowledge Integration} \cite{Wang2024InfuserKI}: Wang et al. (2024) proposed enhancing LLMs with KGs via infuser-guided knowledge integration.
 \end{itemize}
 
-\section*{Initial Ideas}
+\section*{Methodology}
 
-The primary dataset for this project will be sourced from the Slovenian Digital Dictionary Database. This dataset contains structured linguistic information crucial for our integration techniques. We hypothesize that explicitly providing semantic relationships, word definitions, and contextual usages will enable the LLM to better understand and reason about complex linguistic queries. Additionally, we may incorporate other Slovenian linguistic resources and adapt existing datasets where necessary. The dataset will be preprocessed and merged with other sources, ensuring its compatibility with knowledge graph structures. Initial ideas include:
+\subsection*{Dataset preparation}
 
-\begin{itemize}[noitemsep]
-    \item \textbf{Semantic Enrichment:} Using the dictionary's hierarchical structure (e.g., word classes, part-of-speech tags) to provide richer semantic information to the LLM. This allows the model to better understand the relationships between words.
-    \item \textbf{Contextualization:} Embedding definitions and example usages within the knowledge graph to provide the LLM with broader context for interpreting and reasoning about queries.  This includes example sentences from the dictionary.
-    \item \textbf{Knowledge Graph Traversal:} Constructing complex queries that require the LLM to traverse the knowledge graph to retrieve specific relationships or definitions to arrive at an accurate answer. This tests the model's ability to utilize the KG for reasoning.
-    \item \textbf{Cross-Lingual Transfer:} Investigating whether the structured knowledge from the Slovenian dictionary can be used to improve the performance of LLMs on related tasks in other Slavic languages.
-\end{itemize}
+Our methodology for data preparation and knowledge graph construction began with programmatic data acquisition from Wikidata. A proprietary client was implemented to run our SPARQL queries to retrieve information related to Slovenian municipalities, mountain peaks, castles, their properties, and their relationships. These queries targeted specific attributes such as population counts, geographical area, elevation, and cultural heritage classifications.
 
-\section*{Methods}
+The client was engineered to parse the structured JSON responses from the Wikidata Query Service, performing necessary data type conversions and managing absent data points, ultimately organizing the information into a directed graph. Entities such as municipalities, regions, peaks and castles, along with their respective attributes (e.g., population, area, elevation, heritage status), were modeled as nodes within this graph. In particular, numerical attributes were also represented as distinct nodes, including nodes for their approximate rounded values to support more flexible querying. The relationships between these entities, for instance, "is located in," "has population," or "belongs to heritage," were encoded as directed edges. This meticulously constructed knowledge graph provides a structured representation of the domain, enabling the subsequent generation of question-answer pairs through a system that utilizes predefined templates to interrogate the graph's relational structure and content.
 
-We will employ the following methods to integrate KGs into LLMs, focusing on the Slovenian linguistic context:
+\subsection*{RAG}
 
-\begin{enumerate}[noitemsep]
-    \item \textbf{Dataset Creation}:  We will construct a dataset of complex questions pertaining to Slovenian linguistics. These questions will be designed to require reasoning about the relationships defined in the Slovenian Digital Dictionary Database. Each question will be paired with a relevant KG subset extracted from the dictionary.
-    \item \textbf{Direct Input Augmentation}: We will incorporate KG data directly into the input prompts. This will involve crafting prompts that include relevant facts, definitions, and relationships extracted from the knowledge graph, providing explicit hints to the LLM.  Different prompt engineering strategies will be explored.
-    \item \textbf{Graph Embedding-Based Integration}:  We will convert KGs into vector embeddings using techniques like node2vec or graph convolutional networks (GCNs). These embeddings will then be fed into the LLM, potentially by concatenating them with the word embeddings or integrating them into the attention mechanism. We will experiment with different embedding dimensions and architectures.
-    \item \textbf{Attention-Based Fusion Techniques}: We will modify the LLM's attention mechanism to incorporate KG-derived features. This could involve using the KG embeddings to bias the attention weights, allowing the model to focus on the most relevant nodes in the knowledge graph when processing the input query.
-    \item \textbf{Evaluation}:  We will assess the effectiveness of each technique using metrics such as accuracy, precision, recall, and F1-score.  We will also analyze the types of errors made by the LLM with and without KG integration to understand the strengths and weaknesses of each approach.  Statistical significance testing will be used to validate the results.
-\end{enumerate}
+Our approach to Retrieval Augmented Generation (RAG) centers on using a structured knowledge graph to improve how LMMs answer questions. The process can be outlined as follows:
 
+First, we establish a knowledge base in the form of a graph, following the procedure described in the previous section. From this graph, we automatically create question-answer pairs. Importantly, each of these pairs also includes a set of relevant facts, drawn directly from the graph, which provide the necessary context for each question.
+
+Next, we evaluate the RAG system by giving these questions to an LLM in two different ways. In the first scenario, the LLM answers the questions using only its internal knowledge. In the second, the LLM receives the same questions, but this time, its input is enriched with the contextual facts we extracted earlier from our knowledge graph. We then check how accurate the LLM's answers are in both situations by comparing them to the known correct answers. This checking process is handled in two steps. Firstly, a separate LLM, which acts as an unbiased judge to see if the generated answer matches the correct one, evaluates the answers. Then answers are evaluated manually to double check everything.
+
+Lastly, we gauge the improvement by comparing the LLM's accuracy when it answers with the extra context versus without it. This comparison helps us measure how much the retrieved facts from the knowledge graph actually help the LLM, showing how well our RAG strategy works.
+
+\subsection*{Finetuning}
+
+To improve the ability of a pretrained language model to reason over structured information specific to our domain, we attempted supervised finetuning on the \texttt{cjvt/GaMS-9B} model. This large Slovenian causal language model was selected due to its linguistic compatibility and public availability.
+
+We constructed a dataset of 10{,}000 examples in the form of instruction pairs, where each sample consists of a natural language question (prompt) and a corresponding structured answer (response), typically derived from our domain-specific knowledge graph. Each example was serialized in JSON format and tokenized using the GaMS tokenizer, with a maximum sequence length of 256 tokens.
+
+Finetuning was implemented using HuggingFace’s \texttt{Trainer} API with half-precision floating point (\texttt{fp16}) and gradient accumulation in an attempt to manage the substantial memory requirements of the 9B-parameter model. Despite careful tuning, we encountered persistent CUDA out-of-memory and initialization errors across multiple configurations (including reduced batch sizes and single/multi-GPU variants). These issues made it unable to successfully complete the finetuning process within the available hardware constraints.
+
+While this component of the pipeline could not be finalized, we include it in the report to demonstrate the feasibility of the approach and to document the encountered limitations. In theory, finetuning offers the model a chance to learn domain-specific patterns and phrasing present in our generated graph-based examples. In contrast to RAG, which augments retrieval at inference time, finetuning aims to internalize this reasoning capability and is expected to generalize better on structured queries grounded in our knowledge graph.
+
+\section*{Results}
+
+\subsection*{RAG}
+
+The integration of a knowledge graph into our Retrieval Augmented Generation (RAG) system demonstrably enhanced performance by providing a structured and contextually rich source for information retrieval. As a result, the relevance and factuality of the generated outputs saw a significant increase, generally achieving a near perfect score of 100\% in accuracy, though we should note that the validation set is quite small, only on the order of hundreds of examples, due to the fact that evaluation has been done manually in the second step of our evaluation procedure. A perfect score is a massive jump compared to sub 10\% accuracy of the model on its own.
+
+Furthermore, the knowledge graph enabled more sophisticated reasoning capabilities, allowing the RAG model to synthesize information from multiple, interconnected data points to answer complex queries that previously yielded incomplete or superficial answers. This was particularly evident in scenarios requiring an understanding of multi-hop relationships or hierarchical structures between entities provided in the prompt. Initial observations therefore point towards a marked improvement in overall answer quality and correctness, indicated by our results.
 
 \bibliographystyle{unsrt}
 \bibliography{report}
