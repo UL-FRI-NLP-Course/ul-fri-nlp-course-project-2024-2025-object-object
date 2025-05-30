@@ -24,6 +24,14 @@ class QA:
 	def __repr__(self):
 		return f"QA(question='{self.question}', answer='{self.answer}', num_facts={len(self.context_facts)})"
 
+	def to_dict(self) -> Dict[str, str]:
+		"""Convert QA to a dictionary representation."""
+		return {
+			"question": self.question,
+			"answer": self.answer,
+			"context_facts": [str(fact) for fact in self.context_facts]
+		}
+
 	def get_context_string(self, separator: str = " ") -> str:
 		"""Helper to get context facts as a single string."""
 		return separator.join(map(str, self.context_facts))
