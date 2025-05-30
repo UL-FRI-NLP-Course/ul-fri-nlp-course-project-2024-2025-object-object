@@ -1,0 +1,1414 @@
+[
+  {
+    "question": "Kak\u0161na je populacija ob\u010dine, v kateri le\u017ei vrh Visoki Kurjek?",
+    "answer": "5590",
+    "context_facts": [
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Mala Martulj\u0161ka Ponca>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Rogljica>.",
+      "<Ob\u010dina Kranjska Gora> <ima_populacijo> <5590>.",
+      "<Visoki Kurjek> <ima_vi\u0161ino> <1979.0>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Visoki Rokav>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Ru\u0161ica>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Rigljica>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Q124812140>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Dov\u0161ka Baba>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Stenar>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <\u0160krnatarica>.",
+      "<Visoki Kurjek> <se_nahaja_v> <Ob\u010dina Kranjska Gora>."
+    ]
+  },
+  {
+    "question": "Koliko prebivalcev ima ob\u010dina Ob\u010dina Podvelka?",
+    "answer": "2354",
+    "context_facts": [
+      "<Ob\u010dina Podvelka> <ima_vrh> <Rem\u0161nik>.",
+      "<2354> <je_populacija_ob\u010dine> <Ob\u010dina Podvelka>.",
+      "<Ob\u010dina Podvelka> <se_nahaja_v> <koro\u0161ka statisti\u010dna regija>.",
+      "<Ob\u010dina Podvelka> <ima_populacijo> <2354>.",
+      "<Ob\u010dina Podvelka> <ima_povr\u0161ino> <103.9>.",
+      "<Ob\u010dina Podvelka> <ima_vrh> <Hlebov vrh>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Trbovlje?",
+    "answer": "58.0 km\u00b2",
+    "context_facts": [
+      "<58.0> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Trbovlje>.",
+      "<Ob\u010dina Trbovlje> <ima_povr\u0161ino> <58.0>.",
+      "<Ob\u010dina Trbovlje> <se_nahaja_v> <zasavska statisti\u010dna regija>.",
+      "<Ob\u010dina Trbovlje> <ima_populacijo> <16014>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je populacija ob\u010dine, v kateri le\u017ei vrh Palec?",
+    "answer": "4425",
+    "context_facts": [
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Jelen\u010dka>.",
+      "<Palec> <se_nahaja_v> <Ob\u010dina \u017dirovnica>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Palec>.",
+      "<Ob\u010dina \u017dirovnica> <ima_povr\u0161ino> <42.6>.",
+      "<Palec> <ima_vi\u0161ino> <2026.0>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Vrta\u010da>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Poto\u0161ki Stol>.",
+      "<4425> <je_populacija_ob\u010dine> <Ob\u010dina \u017dirovnica>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Ajdna>.",
+      "<Ob\u010dina \u017dirovnica> <ima_populacijo> <4425>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Veliki vrh>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Orlice>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Veliki vrh?",
+    "answer": "1944.0 m",
+    "context_facts": [
+      "<Veliki vrh> <se_nahaja_v> <Ob\u010dina Radovljica>.",
+      "<Veliki vrh> <ima_vi\u0161ino> <1944.0>.",
+      "<Veliki vrh> <ima_vi\u0161ino> <2060.0>.",
+      "<Veliki vrh> <se_nahaja_v> <Ob\u010dina \u017dirovnica>.",
+      "<1944.0> <je_vi\u0161ina_vrha> <Veliki vrh>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji le\u017ei vrh \u010crni vrh?",
+    "answer": "koro\u0161ka statisti\u010dna regija",
+    "context_facts": [
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Dravograd>.",
+      "<Ob\u010dina Mislinja> <ima_povr\u0161ino> <112.2>.",
+      "<\u010crni vrh> <ima_vi\u0161ino> <1543.0>.",
+      "<\u010crni vrh> <se_nahaja_v> <Ob\u010dina Mislinja>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Me\u017eica>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Mislinja>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Ravne na Koro\u0161kem>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Muta>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Ribnica na Pohorju>.",
+      "<Ob\u010dina Mislinja> <ima_vrh> <\u010crni vrh>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Podvelka>.",
+      "<Ob\u010dina Mislinja> <se_nahaja_v> <koro\u0161ka statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Pod kateri status kulturne dedi\u0161\u010dine spada grad Arheolo\u0161ko najdi\u0161\u010de Gradi\u0161\u010de?",
+    "answer": "spomenik lokalnega pomena",
+    "context_facts": [
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Podsreda>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Gra\u0161\u010dina Frankolovo>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Vrbovec>.",
+      "<Arheolo\u0161ko najdi\u0161\u010de Gradi\u0161\u010de> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<spomenik lokalnega pomena> <ima_grad> <grad Metlika>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Arheolo\u0161ko obmo\u010dje Gradina>.",
+      "<spomenik lokalnega pomena> <ima_grad> <grad Mirna>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Lehnik>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Lo\u017ee>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Mokrice>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Protitur\u0161ki tabor>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Stor\u017ei\u010d?",
+    "answer": "2132.0 m",
+    "context_facts": [
+      "<Stor\u017ei\u010d> <se_nahaja_v> <Ob\u010dina Jezersko>.",
+      "<2132.0> <je_vi\u0161ina_vrha> <Mali Dra\u0161ki vrh>.",
+      "<2132.0> <je_vi\u0161ina_vrha> <Stor\u017ei\u010d>.",
+      "<Stor\u017ei\u010d> <ima_vi\u0161ino> <2132.0>.",
+      "<Stor\u017ei\u010d> <se_nahaja_v> <Ob\u010dina Tr\u017ei\u010d>.",
+      "<Stor\u017ei\u010d> <se_nahaja_v> <Ob\u010dina Preddvor>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Zeleni vrh?",
+    "answer": "2052.0 m",
+    "context_facts": [
+      "<2052.0> <je_vi\u0161ina_vrha> <Zeleni vrh>.",
+      "<Zeleni vrh> <ima_vi\u0161ino> <2052.0>.",
+      "<Zeleni vrh> <se_nahaja_v> <Ob\u010dina Tolmin>.",
+      "<Zeleni vrh> <se_nahaja_v> <Ob\u010dina Bohinj>."
+    ]
+  },
+  {
+    "question": "Koliko prebivalcev ima ob\u010dina Ob\u010dina Ravne na Koro\u0161kem?",
+    "answer": "11343",
+    "context_facts": [
+      "<Ob\u010dina Ravne na Koro\u0161kem> <ima_povr\u0161ino> <63.4>.",
+      "<Ob\u010dina Ravne na Koro\u0161kem> <ima_grad> <Grad Gu\u0161tanj>.",
+      "<Ob\u010dina Ravne na Koro\u0161kem> <ima_populacijo> <11343>.",
+      "<Ob\u010dina Ravne na Koro\u0161kem> <ima_grad> <Grad Ravne>.",
+      "<Ob\u010dina Ravne na Koro\u0161kem> <ima_grad> <Grad Gu\u0161tanj>.",
+      "<Ob\u010dina Ravne na Koro\u0161kem> <se_nahaja_v> <koro\u0161ka statisti\u010dna regija>.",
+      "<11343> <je_populacija_ob\u010dine> <Ob\u010dina Ravne na Koro\u0161kem>.",
+      "<Ob\u010dina Ravne na Koro\u0161kem> <ima_grad> <Grad Gu\u0161tanj (spodnji grad)>.",
+      "<Ob\u010dina Ravne na Koro\u0161kem> <ima_grad> <Grad Grinfels>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji le\u017ei vrh Krnitza?",
+    "answer": "savinjska statisti\u010dna regija",
+    "context_facts": [
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Bistrica ob Sotli>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Dobje>.",
+      "<Ob\u010dina Sol\u010dava> <ima_populacijo> <524>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Polzela>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160martno ob Paki>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Tabor>.",
+      "<Krnitza> <se_nahaja_v> <Ob\u010dina Sol\u010dava>.",
+      "<Ob\u010dina Sol\u010dava> <se_nahaja_v> <savinjska statisti\u010dna regija>.",
+      "<Ob\u010dina Sol\u010dava> <ima_vrh> <Krnitza>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160o\u0161tanj>.",
+      "<Ob\u010dina Sol\u010dava> <ima_vrh> <Veliki vrh>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Slovenske Konjice>."
+    ]
+  },
+  {
+    "question": "Pod kateri status kulturne dedi\u0161\u010dine spada grad Grad Ormo\u017e?",
+    "answer": "spomenik lokalnega pomena",
+    "context_facts": [
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Ra\u010de>.",
+      "<Grad Ormo\u017e> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad \u0160krljevo>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Vuzenica>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Pobre\u017eje>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad \u017debnik>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Orehek>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Trilek>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Lo\u0161ki grad>.",
+      "<spomenik lokalnega pomena> <ima_grad> <grad Metlika>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Ajmanov grad>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Kav\u0161akov vrh?",
+    "answer": "1063.0 m",
+    "context_facts": [
+      "<Kav\u0161akov vrh> <ima_vi\u0161ino> <1063.0>.",
+      "<Kav\u0161akov vrh> <se_nahaja_v> <Ob\u010dina \u010crna na Koro\u0161kem>.",
+      "<1063.0> <je_vi\u0161ina_vrha> <Kav\u0161akov vrh>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Odranci?",
+    "answer": "6.9 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Odranci> <se_nahaja_v> <pomurska statisti\u010dna regija>.",
+      "<Ob\u010dina Odranci> <ima_populacijo> <1630>.",
+      "<6.9> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Odranci>.",
+      "<Ob\u010dina Odranci> <ima_povr\u0161ino> <6.9>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji stoji grad Protitur\u0161ki tabor?",
+    "answer": "gori\u0161ka statisti\u010dna regija",
+    "context_facts": [
+      "<gori\u0161ka statisti\u010dna regija> <ima_vrh> <Mount Kuk>.",
+      "<Ob\u010dina Vipava> <ima_povr\u0161ino> <107.4>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Idrija>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Kanal ob So\u010di>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Brda>.",
+      "<Protitur\u0161ki tabor> <se_nahaja_v> <Ob\u010dina Vipava>.",
+      "<Ob\u010dina Vipava> <ima_populacijo> <5763>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Miren - Kostanjevica>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160empeter - Vrtojba>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Kobarid>.",
+      "<Protitur\u0161ki tabor> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<Ob\u010dina Vipava> <se_nahaja_v> <gori\u0161ka statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Pi\u0161enca?",
+    "answer": "1998.0 m",
+    "context_facts": [
+      "<1998.0> <je_vi\u0161ina_vrha> <Pi\u0161enca>.",
+      "<Pi\u0161enca> <se_nahaja_v> <Ob\u010dina Tr\u017ei\u010d>.",
+      "<Pi\u0161enca> <ima_vi\u0161ino> <1998.0>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji le\u017ei vrh Tolsta Ko\u0161uta?",
+    "answer": "gorenjska statisti\u010dna regija",
+    "context_facts": [
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <Tolsta Ko\u0161uta>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u017diri>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <Kofce gora>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Naklo>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Tr\u017ei\u010d>.",
+      "<Tolsta Ko\u0161uta> <se_nahaja_v> <Ob\u010dina Tr\u017ei\u010d>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Gorenja vas - Poljane>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <se_nahaja_v> <gorenjska statisti\u010dna regija>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <Visoki vrh>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Jezersko>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <Pe\u010dovnik>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <Kladivo>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Vrhnika?",
+    "answer": "126.3 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Vrhnika> <ima_povr\u0161ino> <126.3>.",
+      "<126.3> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Vrhnika>.",
+      "<Ob\u010dina Vrhnika> <ima_populacijo> <17655>.",
+      "<Ob\u010dina Vrhnika> <se_nahaja_v> <osrednjeslovenska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Pod kateri status kulturne dedi\u0161\u010dine spada grad Grad Vuzenica?",
+    "answer": "spomenik lokalnega pomena",
+    "context_facts": [
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Lemberg>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Gracarjev turn>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Tabor nad Bota\u010dem>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Prem>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Ormo\u017e>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Fala (spodnji grad)>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Lo\u0161ki grad>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Lehnik>.",
+      "<Grad Vuzenica> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Hompo\u0161>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji se nahaja ob\u010dina Ob\u010dina \u017du\u017eemberk?",
+    "answer": "statisti\u010dna regija jugovzhodna Slovenija",
+    "context_facts": [
+      "<Ob\u010dina \u017du\u017eemberk> <ima_grad> <Grad \u017du\u017eemberk>.",
+      "<statisti\u010dna regija jugovzhodna Slovenija> <ima_ob\u010dino> <Ob\u010dina Ribnica>.",
+      "<statisti\u010dna regija jugovzhodna Slovenija> <ima_ob\u010dino> <Ob\u010dina Semi\u010d>.",
+      "<statisti\u010dna regija jugovzhodna Slovenija> <ima_ob\u010dino> <Ob\u010dina Dolenjske Toplice>.",
+      "<Ob\u010dina \u017du\u017eemberk> <ima_populacijo> <4694>.",
+      "<Ob\u010dina \u017du\u017eemberk> <se_nahaja_v> <statisti\u010dna regija jugovzhodna Slovenija>.",
+      "<statisti\u010dna regija jugovzhodna Slovenija> <ima_ob\u010dino> <Ob\u010dina Stra\u017ea>.",
+      "<statisti\u010dna regija jugovzhodna Slovenija> <ima_ob\u010dino> <Ob\u010dina \u0160entjernej>.",
+      "<statisti\u010dna regija jugovzhodna Slovenija> <ima_ob\u010dino> <Ob\u010dina Mokronog-Trebelno>.",
+      "<statisti\u010dna regija jugovzhodna Slovenija> <ima_ob\u010dino> <Ob\u010dina Mirna Pe\u010d>.",
+      "<statisti\u010dna regija jugovzhodna Slovenija> <ima_ob\u010dino> <Ob\u010dina Sodra\u017eica>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji stoji grad Grad Branek?",
+    "answer": "pomurska statisti\u010dna regija",
+    "context_facts": [
+      "<Grad Branek> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Odranci>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Turni\u0161\u010de>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Gornji Petrovci>.",
+      "<Ob\u010dina Ljutomer> <ima_grad> <Grad Branek>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Ti\u0161ina>.",
+      "<Grad Branek> <se_nahaja_v> <Ob\u010dina Ljutomer>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Apa\u010de>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Moravske Toplice>.",
+      "<Ob\u010dina Ljutomer> <se_nahaja_v> <pomurska statisti\u010dna regija>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Cankova>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160alovci>."
+    ]
+  },
+  {
+    "question": "Koliko prebivalcev ima ob\u010dina Ob\u010dina Sveti Jurij v Slovenskih goricah?",
+    "answer": "2096",
+    "context_facts": [
+      "<Ob\u010dina Sveti Jurij v Slovenskih goricah> <ima_populacijo> <2096>.",
+      "<Ob\u010dina Sveti Jurij v Slovenskih goricah> <ima_povr\u0161ino> <34.0>.",
+      "<2096> <je_populacija_ob\u010dine> <Ob\u010dina Sveti Jurij v Slovenskih goricah>.",
+      "<Ob\u010dina Sveti Jurij v Slovenskih goricah> <se_nahaja_v> <podravska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je populacija ob\u010dine, v kateri le\u017ei vrh Vrlaski vrh?",
+    "answer": "5590",
+    "context_facts": [
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Mojstrovica>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Crni vrh>.",
+      "<Vrlaski vrh> <se_nahaja_v> <Ob\u010dina Kranjska Gora>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Kamnik>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Q124812196>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Malo\u0161ko Poldne>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Rogljica>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Frdamane police>.",
+      "<Ob\u010dina Kranjska Gora> <ima_populacijo> <5590>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Dolkova \u0161pica>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Ru\u0161ica>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <\u0160krnatarica>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini stoji grad Grad Klu\u017ee?",
+    "answer": "Ob\u010dina Bovec",
+    "context_facts": [
+      "<Ob\u010dina Bovec> <ima_vrh> <\u010cukla>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <Suhi vrh>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <Jerebica>.",
+      "<Grad Klu\u017ee> <se_nahaja_v> <Ob\u010dina Bovec>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <Vrh Zelenic>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <\u010crni vrh>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <Veliki Leme\u017e>.",
+      "<Ob\u010dina Bovec> <se_nahaja_v> <gori\u0161ka statisti\u010dna regija>.",
+      "<Ob\u010dina Bovec> <ima_povr\u0161ino> <367.3>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <Skutnik>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <More\u017e>."
+    ]
+  },
+  {
+    "question": "Pod kateri status kulturne dedi\u0161\u010dine spada grad Grad Kamen?",
+    "answer": "spomenik lokalnega pomena",
+    "context_facts": [
+      "<spomenik lokalnega pomena> <ima_grad> <Grad \u017debnik>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Grinfels>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Gromperk>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Cmurek>.",
+      "<Grad Kamen> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Lo\u017ee>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Kamen>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Ra\u010de>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Vrbovec>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad \u0160krljevo>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Lo\u0161ki grad>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Oplotnica?",
+    "answer": "33.2 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Oplotnica> <ima_populacijo> <4146>.",
+      "<Ob\u010dina Oplotnica> <se_nahaja_v> <podravska statisti\u010dna regija>.",
+      "<Ob\u010dina Oplotnica> <ima_povr\u0161ino> <33.2>.",
+      "<33.2> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Oplotnica>."
+    ]
+  },
+  {
+    "question": "Koliko prebivalcev ima ob\u010dina Ob\u010dina Rade\u010de?",
+    "answer": "4142",
+    "context_facts": [
+      "<Ob\u010dina Rade\u010de> <ima_povr\u0161ino> <52.0>.",
+      "<Ob\u010dina Rade\u010de> <ima_grad> <Grad \u017debnik>.",
+      "<4142> <je_populacija_ob\u010dine> <Ob\u010dina Rade\u010de>.",
+      "<Ob\u010dina Rade\u010de> <ima_populacijo> <4142>.",
+      "<Ob\u010dina Rade\u010de> <se_nahaja_v> <posavska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Koliko prebivalcev ima ob\u010dina Ob\u010dina Sveti Andra\u017e v Slovenskih goricah?",
+    "answer": "1184",
+    "context_facts": [
+      "<Ob\u010dina Sveti Andra\u017e v Slovenskih goricah> <ima_povr\u0161ino> <17.6>.",
+      "<Ob\u010dina Sveti Andra\u017e v Slovenskih goricah> <se_nahaja_v> <podravska statisti\u010dna regija>.",
+      "<1184> <je_populacija_ob\u010dine> <Ob\u010dina Sveti Andra\u017e v Slovenskih goricah>.",
+      "<Ob\u010dina Sveti Andra\u017e v Slovenskih goricah> <ima_populacijo> <1184>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji se nahaja ob\u010dina Ob\u010dina Pod\u010detrtek?",
+    "answer": "savinjska statisti\u010dna regija",
+    "context_facts": [
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Vransko>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Lu\u010de>.",
+      "<Ob\u010dina Pod\u010detrtek> <se_nahaja_v> <savinjska statisti\u010dna regija>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u017dalec>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160marje pri Jel\u0161ah>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Slovenske Konjice>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Roga\u0161ka Slatina>.",
+      "<savinjska statisti\u010dna regija> <ima_vrh> <Rogla>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Tabor>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160martno ob Paki>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Bistrica ob Sotli>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Grintovec?",
+    "answer": "2558.0 m",
+    "context_facts": [
+      "<Grintovec> <se_nahaja_v> <Ob\u010dina Preddvor>.",
+      "<Grintovec> <se_nahaja_v> <Ob\u010dina Jezersko>.",
+      "<Grintovec> <se_nahaja_v> <Ob\u010dina Kamnik>.",
+      "<2558.0> <je_vi\u0161ina_vrha> <Grintovec>.",
+      "<Grintovec> <ima_vi\u0161ino> <2558.0>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini le\u017ei vrh Jelen\u010dka?",
+    "answer": "Ob\u010dina \u017dirovnica",
+    "context_facts": [
+      "<Ob\u010dina \u017dirovnica> <ima_populacijo> <4425>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Vrta\u010da>.",
+      "<Jelen\u010dka> <se_nahaja_v> <Ob\u010dina \u017dirovnica>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Palec>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Poto\u0161ki Stol>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Ajdna>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Stol>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Veliki vrh>.",
+      "<Ob\u010dina \u017dirovnica> <ima_povr\u0161ino> <42.6>.",
+      "<Ob\u010dina \u017dirovnica> <ima_vrh> <Jelen\u010dka>.",
+      "<Ob\u010dina \u017dirovnica> <se_nahaja_v> <gorenjska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini stoji grad Grad Rittersberg?",
+    "answer": "Ob\u010dina Brda",
+    "context_facts": [
+      "<Ob\u010dina Brda> <ima_grad> <Grad Cerovo>.",
+      "<Ob\u010dina Brda> <ima_populacijo> <5613>.",
+      "<Grad Rittersberg> <se_nahaja_v> <Ob\u010dina Brda>.",
+      "<Ob\u010dina Brda> <ima_povr\u0161ino> <72.0>.",
+      "<Ob\u010dina Brda> <ima_grad> <Grad Vi\u0161njevek>.",
+      "<Ob\u010dina Brda> <ima_grad> <Grad Vipol\u017ee>.",
+      "<Ob\u010dina Brda> <ima_grad> <Grad Rittersberg>.",
+      "<Ob\u010dina Brda> <ima_grad> <Grad Dobrovo>.",
+      "<Ob\u010dina Brda> <ima_grad> <Grad Fojana>.",
+      "<Ob\u010dina Brda> <se_nahaja_v> <gori\u0161ka statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je populacija ob\u010dine, v kateri le\u017ei vrh Ko\u0161utnikov turn?",
+    "answer": "15003",
+    "context_facts": [
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_grad> <Grad Neuhaus>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <Kofce gora>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <U\u017enik>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <Tolsta Ko\u0161uta>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <Macesje>.",
+      "<Ko\u0161utnikov turn> <ima_vi\u0161ino> <2136.0>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <Visoki vrh>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <se_nahaja_v> <gorenjska statisti\u010dna regija>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <Stor\u017ei\u010d>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_populacijo> <15003>.",
+      "<Ob\u010dina Tr\u017ei\u010d> <ima_vrh> <Ple\u0161ivec>.",
+      "<Ko\u0161utnikov turn> <se_nahaja_v> <Ob\u010dina Tr\u017ei\u010d>."
+    ]
+  },
+  {
+    "question": "Koliko prebivalcev ima ob\u010dina Ob\u010dina Prebold?",
+    "answer": "5155",
+    "context_facts": [
+      "<Ob\u010dina Prebold> <ima_populacijo> <5155>.",
+      "<5155> <je_populacija_ob\u010dine> <Ob\u010dina Prebold>.",
+      "<Ob\u010dina Prebold> <se_nahaja_v> <savinjska statisti\u010dna regija>.",
+      "<Ob\u010dina Prebold> <ima_povr\u0161ino> <41.0>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji se nahaja ob\u010dina Ob\u010dina Sveti Jurij ob \u0160\u010davnici?",
+    "answer": "pomurska statisti\u010dna regija",
+    "context_facts": [
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Lendava>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Dobrovnik>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Razkri\u017eje>.",
+      "<Ob\u010dina Sveti Jurij ob \u0160\u010davnici> <se_nahaja_v> <pomurska statisti\u010dna regija>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Kobilje>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Turni\u0161\u010de>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Apa\u010de>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Gornji Petrovci>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Grad>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Odranci>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Sveti Jurij ob \u0160\u010davnici>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Ajdna?",
+    "answer": "1046.0 m",
+    "context_facts": [
+      "<1046.0> <je_vi\u0161ina_vrha> <Ajdna>.",
+      "<Ajdna> <ima_vi\u0161ino> <1046.0>.",
+      "<Ajdna> <se_nahaja_v> <Ob\u010dina \u017dirovnica>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji se nahaja ob\u010dina Ob\u010dina Trzin?",
+    "answer": "osrednjeslovenska statisti\u010dna regija",
+    "context_facts": [
+      "<osrednjeslovenska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160martno pri Litiji>.",
+      "<osrednjeslovenska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Litija>.",
+      "<osrednjeslovenska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Dom\u017eale>.",
+      "<osrednjeslovenska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Lukovica>.",
+      "<osrednjeslovenska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Grosuplje>.",
+      "<osrednjeslovenska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Velike La\u0161\u010de>.",
+      "<osrednjeslovenska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Logatec>.",
+      "<osrednjeslovenska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Vrhnika>.",
+      "<osrednjeslovenska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Ig>.",
+      "<osrednjeslovenska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Borovnica>.",
+      "<Ob\u010dina Trzin> <se_nahaja_v> <osrednjeslovenska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je populacija ob\u010dine, v kateri le\u017ei vrh Lu\u010dka Baba?",
+    "answer": "29933",
+    "context_facts": [
+      "<Lu\u010dka Baba> <se_nahaja_v> <Ob\u010dina Kamnik>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <Planjava>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <Lu\u010dka Baba>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <Koro\u0161ka Rinka>.",
+      "<Ob\u010dina Kamnik> <ima_populacijo> <29933>.",
+      "<29933> <je_populacija_ob\u010dine> <Ob\u010dina Kamnik>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <Brana>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <\u0160truca>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <\u0160tajerska Rinka>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <Velika planina>.",
+      "<Ob\u010dina Kamnik> <se_nahaja_v> <osrednjeslovenska statisti\u010dna regija>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <Kogel>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini le\u017ei vrh Mala Martulj\u0161ka Ponca?",
+    "answer": "Ob\u010dina Kranjska Gora",
+    "context_facts": [
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Stenar>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Dov\u0161ka Baba>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Visoki Kurjek>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Vrlaski vrh>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Vrh nad Rudo>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Kurji vrh>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Vo\u0161ca>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Hru\u0161ki vrh>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Blekova>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Travnik>.",
+      "<Mala Martulj\u0161ka Ponca> <se_nahaja_v> <Ob\u010dina Kranjska Gora>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji le\u017ei vrh Mi\u0161eljski konec?",
+    "answer": "gorenjska statisti\u010dna regija",
+    "context_facts": [
+      "<Ob\u010dina Bohinj> <se_nahaja_v> <gorenjska statisti\u010dna regija>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Radovljica>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Tolminski Kuk>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <\u0160ija>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Vogel>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Debeli vrh>.",
+      "<Mi\u0161eljski konec> <se_nahaja_v> <Ob\u010dina Bohinj>.",
+      "<Mi\u0161eljski konec> <ima_vi\u0161ino> <2464.0>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <\u0160avnik (vrh)>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Vrh Hribaric>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Cerklje na Gorenjskem>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Mi\u0161elj vrh>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Triglav?",
+    "answer": "2864.0 m",
+    "context_facts": [
+      "<Triglav> <ima_vi\u0161ino> <2864.0>.",
+      "<Triglav> <se_nahaja_v> <Ob\u010dina Kranjska Gora>.",
+      "<2864.0> <je_vi\u0161ina_vrha> <Triglav>.",
+      "<Triglav> <se_nahaja_v> <Ob\u010dina Bohinj>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Kobilje?",
+    "answer": "19.7 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Kobilje> <ima_povr\u0161ino> <19.7>.",
+      "<Ob\u010dina Kobilje> <se_nahaja_v> <pomurska statisti\u010dna regija>.",
+      "<Ob\u010dina Kobilje> <ima_populacijo> <540>.",
+      "<19.7> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Kobilje>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je populacija ob\u010dine, v kateri le\u017ei vrh Krnitza?",
+    "answer": "524",
+    "context_facts": [
+      "<Krnitza> <ima_vi\u0161ino> <1967.0>.",
+      "<Ob\u010dina Sol\u010dava> <ima_vrh> <Krnitza>.",
+      "<Ob\u010dina Sol\u010dava> <ima_vrh> <Veliki vrh>.",
+      "<Ob\u010dina Sol\u010dava> <se_nahaja_v> <savinjska statisti\u010dna regija>.",
+      "<524> <je_populacija_ob\u010dine> <Ob\u010dina Sol\u010dava>.",
+      "<Ob\u010dina Sol\u010dava> <ima_populacijo> <524>.",
+      "<Krnitza> <se_nahaja_v> <Ob\u010dina Sol\u010dava>.",
+      "<Ob\u010dina Sol\u010dava> <ima_povr\u0161ino> <102.8>."
+    ]
+  },
+  {
+    "question": "Pod kateri status kulturne dedi\u0161\u010dine spada grad Grad Grinfels?",
+    "answer": "spomenik lokalnega pomena",
+    "context_facts": [
+      "<spomenik lokalnega pomena> <ima_grad> <Grad \u0160krljevo>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Vinica, \u010crnomelj>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Gracarjev turn>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Gromperk>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Lo\u017ee>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Podsreda>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Pobre\u017eje>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Rek\u0161tanj>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad \u017debnik>.",
+      "<Grad Grinfels> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji se nahaja ob\u010dina Ob\u010dina Puconci?",
+    "answer": "pomurska statisti\u010dna regija",
+    "context_facts": [
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Beltinci>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Odranci>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Puconci>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u010cren\u0161ovci>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Dobrovnik>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Cankova>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Gornja Radgona>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Radenci>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Moravske Toplice>.",
+      "<Ob\u010dina Puconci> <se_nahaja_v> <pomurska statisti\u010dna regija>.",
+      "<pomurska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160alovci>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine, kjer stoji grad Grad Voitsberg?",
+    "answer": "480.0 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Ilirska Bistrica> <se_nahaja_v> <primorsko-notranjska statisti\u010dna regija>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_povr\u0161ino> <480.0>.",
+      "<Grad Voitsberg> <se_nahaja_v> <Ob\u010dina Ilirska Bistrica>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_grad> <Grad Voitsberg>.",
+      "<480.0> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Ilirska Bistrica>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_populacijo> <13337>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_grad> <Arheolo\u0161ko obmo\u010dje Gradina>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_grad> <Grad Prem>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini stoji grad Grad Branek?",
+    "answer": "Ob\u010dina Ljutomer",
+    "context_facts": [
+      "<Grad Branek> <se_nahaja_v> <Ob\u010dina Ljutomer>.",
+      "<Ob\u010dina Ljutomer> <ima_grad> <Grad Branek>.",
+      "<Grad Branek> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<Ob\u010dina Ljutomer> <ima_povr\u0161ino> <107.2>.",
+      "<Ob\u010dina Ljutomer> <se_nahaja_v> <pomurska statisti\u010dna regija>.",
+      "<Ob\u010dina Ljutomer> <ima_populacijo> <11233>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji se nahaja ob\u010dina Ob\u010dina Markovci?",
+    "answer": "podravska statisti\u010dna regija",
+    "context_facts": [
+      "<podravska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Jur\u0161inci>.",
+      "<podravska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Sredi\u0161\u010de ob Dravi>.",
+      "<Ob\u010dina Markovci> <se_nahaja_v> <podravska statisti\u010dna regija>.",
+      "<podravska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Zavr\u010d>.",
+      "<podravska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Vojnik>.",
+      "<Ob\u010dina Markovci> <ima_populacijo> <4019>.",
+      "<podravska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Star\u0161e>.",
+      "<podravska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160entilj>.",
+      "<podravska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Trnovska vas>.",
+      "<podravska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Hajdina>.",
+      "<podravska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Pesnica>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine, kjer stoji grad Grad Vinica, \u010crnomelj?",
+    "answer": "339.7 km\u00b2",
+    "context_facts": [
+      "<Grad Vinica, \u010crnomelj> <se_nahaja_v> <Ob\u010dina \u010crnomelj>.",
+      "<Ob\u010dina \u010crnomelj> <se_nahaja_v> <statisti\u010dna regija jugovzhodna Slovenija>.",
+      "<Ob\u010dina \u010crnomelj> <ima_grad> <Grad>.",
+      "<Ob\u010dina \u010crnomelj> <ima_populacijo> <14318>.",
+      "<Ob\u010dina \u010crnomelj> <ima_povr\u0161ino> <339.7>.",
+      "<Ob\u010dina \u010crnomelj> <ima_grad> <Grad Vinica, \u010crnomelj>.",
+      "<Ob\u010dina \u010crnomelj> <ima_grad> <Grad Pobre\u017eje>.",
+      "<Ob\u010dina \u010crnomelj> <ima_vrh> <Mount Mirna>.",
+      "<Ob\u010dina \u010crnomelj> <ima_grad> <Grad \u010crnomelj>.",
+      "<Grad Vinica, \u010crnomelj> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<339.7> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina \u010crnomelj>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini stoji grad Grad Voitsberg?",
+    "answer": "Ob\u010dina Ilirska Bistrica",
+    "context_facts": [
+      "<Ob\u010dina Ilirska Bistrica> <ima_grad> <Arheolo\u0161ko obmo\u010dje Gradina>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_povr\u0161ino> <480.0>.",
+      "<Grad Voitsberg> <se_nahaja_v> <Ob\u010dina Ilirska Bistrica>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_grad> <Grad Voitsberg>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_populacijo> <13337>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_grad> <Grad Prem>.",
+      "<Ob\u010dina Ilirska Bistrica> <se_nahaja_v> <primorsko-notranjska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine, kjer stoji grad Grad Falkenberg?",
+    "answer": "43.3 km\u00b2",
+    "context_facts": [
+      "<Grad Falkenberg> <se_nahaja_v> <Ob\u010dina \u0160kofljica>.",
+      "<Ob\u010dina \u0160kofljica> <ima_povr\u0161ino> <43.3>.",
+      "<Ob\u010dina \u0160kofljica> <se_nahaja_v> <osrednjeslovenska statisti\u010dna regija>.",
+      "<Ob\u010dina \u0160kofljica> <ima_populacijo> <11692>.",
+      "<Ob\u010dina \u0160kofljica> <ima_grad> <Grad Falkenberg>.",
+      "<43.3> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina \u0160kofljica>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Debeli vrh?",
+    "answer": "2390.0 m",
+    "context_facts": [
+      "<2390.0> <je_vi\u0161ina_vrha> <Debeli vrh>.",
+      "<Debeli vrh> <ima_vi\u0161ino> <2390.0>.",
+      "<Debeli vrh> <se_nahaja_v> <Ob\u010dina Bohinj>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji le\u017ei vrh Studor?",
+    "answer": "gorenjska statisti\u010dna regija",
+    "context_facts": [
+      "<Ob\u010dina Bohinj> <ima_vrh> <Cez Suho>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u017diri>.",
+      "<Ob\u010dina Bohinj> <se_nahaja_v> <gorenjska statisti\u010dna regija>.",
+      "<Studor> <se_nahaja_v> <Ob\u010dina Bohinj>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160en\u010dur>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Ka\u010dji rob>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Vogel>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Bohinj>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Studor>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Bled>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Kanjavec>.",
+      "<Ob\u010dina Bohinj> <ima_povr\u0161ino> <333.7>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Q124812140?",
+    "answer": "2249.0 m",
+    "context_facts": [
+      "<Q124812140> <se_nahaja_v> <Ob\u010dina Kranjska Gora>.",
+      "<Q124812140> <ima_vi\u0161ino> <2249.0>.",
+      "<2249.0> <je_vi\u0161ina_vrha> <Q124812140>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini stoji grad grad Metlika?",
+    "answer": "Ob\u010dina Metlika",
+    "context_facts": [
+      "<Ob\u010dina Metlika> <ima_grad> <grad Metlika>.",
+      "<Ob\u010dina Metlika> <ima_povr\u0161ino> <108.9>.",
+      "<grad Metlika> <se_nahaja_v> <Ob\u010dina Metlika>.",
+      "<Ob\u010dina Metlika> <se_nahaja_v> <statisti\u010dna regija jugovzhodna Slovenija>.",
+      "<Ob\u010dina Metlika> <ima_populacijo> <8458>.",
+      "<grad Metlika> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>."
+    ]
+  },
+  {
+    "question": "Pod kateri status kulturne dedi\u0161\u010dine spada grad grad Bre\u017eice?",
+    "answer": "spomenik dr\u017eavnega pomena",
+    "context_facts": [
+      "<grad Bre\u017eice> <pripada_dedi\u0161\u010dini> <spomenik dr\u017eavnega pomena>.",
+      "<spomenik dr\u017eavnega pomena> <ima_grad> <Grad Pi\u0161ece>.",
+      "<spomenik dr\u017eavnega pomena> <ima_grad> <grad Turjak>.",
+      "<spomenik dr\u017eavnega pomena> <ima_grad> <Grad Jablje>.",
+      "<spomenik dr\u017eavnega pomena> <ima_grad> <Grad Borl>.",
+      "<spomenik dr\u017eavnega pomena> <ima_grad> <grad Gewerkenegg>.",
+      "<spomenik dr\u017eavnega pomena> <ima_grad> <Grad Stara Loka>.",
+      "<spomenik dr\u017eavnega pomena> <ima_grad> <Grad Grad>.",
+      "<grad Bre\u017eice> <se_nahaja_v> <Ob\u010dina Bre\u017eice>.",
+      "<spomenik dr\u017eavnega pomena> <ima_grad> <grad Bre\u017eice>.",
+      "<spomenik dr\u017eavnega pomena> <ima_grad> <Grad Negova>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Vuzenica?",
+    "answer": "50.1 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Vuzenica> <ima_grad> <Grad Vuzenica>.",
+      "<50.1> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Vuzenica>.",
+      "<Ob\u010dina Vuzenica> <se_nahaja_v> <koro\u0161ka statisti\u010dna regija>.",
+      "<Ob\u010dina Vuzenica> <ima_povr\u0161ino> <50.1>.",
+      "<Ob\u010dina Vuzenica> <ima_populacijo> <2655>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji le\u017ei vrh Sne\u017enik?",
+    "answer": "koro\u0161ka statisti\u010dna regija",
+    "context_facts": [
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <ima_povr\u0161ino> <156.0>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Mislinja>.",
+      "<Sne\u017enik> <ima_vi\u0161ino> <1543.0>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Radlje ob Dravi>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Dravograd>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Vuzenica>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Muta>.",
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <ima_vrh> <Kav\u0161akov vrh>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Ribnica na Pohorju>.",
+      "<koro\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u010crna na Koro\u0161kem>.",
+      "<Sne\u017enik> <se_nahaja_v> <Ob\u010dina \u010crna na Koro\u0161kem>.",
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <se_nahaja_v> <koro\u0161ka statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji se nahaja ob\u010dina Ob\u010dina Vipava?",
+    "answer": "gori\u0161ka statisti\u010dna regija",
+    "context_facts": [
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Ajdov\u0161\u010dina>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Cerkno>.",
+      "<Ob\u010dina Vipava> <ima_vrh> <Suhi Vrh>.",
+      "<Ob\u010dina Vipava> <ima_povr\u0161ino> <107.4>.",
+      "<Ob\u010dina Vipava> <ima_populacijo> <5763>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Kobarid>.",
+      "<Ob\u010dina Vipava> <ima_grad> <Grad Vipava (spodnji grad)>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Tolmin>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_vrh> <Mount Kuk>.",
+      "<Ob\u010dina Vipava> <se_nahaja_v> <gori\u0161ka statisti\u010dna regija>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Ren\u010de - Vogrsko>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine, kjer stoji grad Grad Majdburg?",
+    "answer": "71.5 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Kidri\u010devo> <ima_povr\u0161ino> <71.5>.",
+      "<Ob\u010dina Kidri\u010devo> <se_nahaja_v> <podravska statisti\u010dna regija>.",
+      "<71.5> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Kidri\u010devo>.",
+      "<Ob\u010dina Kidri\u010devo> <ima_grad> <Grad Majdburg>.",
+      "<Ob\u010dina Kidri\u010devo> <ima_populacijo> <6526>.",
+      "<71.5> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Roga\u0161ka Slatina>.",
+      "<Grad Majdburg> <se_nahaja_v> <Ob\u010dina Kidri\u010devo>."
+    ]
+  },
+  {
+    "question": "Koliko prebivalcev ima ob\u010dina Ob\u010dina Gornji Grad?",
+    "answer": "2490",
+    "context_facts": [
+      "<Ob\u010dina Gornji Grad> <ima_populacijo> <2490>.",
+      "<Ob\u010dina Gornji Grad> <ima_povr\u0161ino> <90.1>.",
+      "<2490> <je_populacija_ob\u010dine> <Ob\u010dina Gornji Grad>.",
+      "<Ob\u010dina Gornji Grad> <se_nahaja_v> <savinjska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini le\u017ei vrh Kav\u0161akov vrh?",
+    "answer": "Ob\u010dina \u010crna na Koro\u0161kem",
+    "context_facts": [
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <ima_vrh> <Ur\u0161lja gora>.",
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <ima_vrh> <Kav\u0161akov vrh>.",
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <ima_vrh> <Korde\u017eeva glava>.",
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <ima_vrh> <Obretanov vrh>.",
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <ima_populacijo> <3271>.",
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <ima_vrh> <Jeklnov vrh>.",
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <ima_vrh> <Govca>.",
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <se_nahaja_v> <koro\u0161ka statisti\u010dna regija>.",
+      "<Kav\u0161akov vrh> <ima_vi\u0161ino> <1063.0>.",
+      "<Kav\u0161akov vrh> <se_nahaja_v> <Ob\u010dina \u010crna na Koro\u0161kem>.",
+      "<Ob\u010dina \u010crna na Koro\u0161kem> <ima_povr\u0161ino> <156.0>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini le\u017ei vrh Lu\u010dka Baba?",
+    "answer": "Ob\u010dina Kamnik",
+    "context_facts": [
+      "<Ob\u010dina Kamnik> <ima_vrh> <Dolgi Hrbet>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <Brana>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <Grintovec>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <\u0160tajerska Rinka>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <\u0160truca>.",
+      "<Lu\u010dka Baba> <se_nahaja_v> <Ob\u010dina Kamnik>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <Koro\u0161ka Rinka>.",
+      "<Ob\u010dina Kamnik> <se_nahaja_v> <osrednjeslovenska statisti\u010dna regija>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <Ojstrica>.",
+      "<Ob\u010dina Kamnik> <ima_povr\u0161ino> <266.0>.",
+      "<Ob\u010dina Kamnik> <ima_vrh> <Planjava>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini le\u017ei vrh Veliki Leme\u017e?",
+    "answer": "Ob\u010dina Bovec",
+    "context_facts": [
+      "<Veliki Leme\u017e> <se_nahaja_v> <Ob\u010dina Bovec>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <\u010crni vrh>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <\u010cukla>.",
+      "<Ob\u010dina Bovec> <se_nahaja_v> <gori\u0161ka statisti\u010dna regija>.",
+      "<Ob\u010dina Bovec> <ima_populacijo> <3193>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <Jerebica>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <More\u017e>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <Suhi vrh>.",
+      "<Veliki Leme\u017e> <ima_vi\u0161ino> <2043.0>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <Veliki Leme\u017e>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <Krn\u010dica>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini le\u017ei vrh Hru\u0161ki vrh?",
+    "answer": "Ob\u010dina Kranjska Gora",
+    "context_facts": [
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Mala Martulj\u0161ka Ponca>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Jalovec>.",
+      "<Ob\u010dina Kranjska Gora> <ima_povr\u0161ino> <256.3>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Q124812196>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Kamnik>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Kurji vrh>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Petelinjek>.",
+      "<Hru\u0161ki vrh> <se_nahaja_v> <Ob\u010dina Kranjska Gora>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Kepa>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <Velika Ponca>.",
+      "<Ob\u010dina Kranjska Gora> <ima_vrh> <\u0160iroka pe\u010d>."
+    ]
+  },
+  {
+    "question": "Koliko prebivalcev ima ob\u010dina Ob\u010dina Lu\u010de?",
+    "answer": "1444",
+    "context_facts": [
+      "<Ob\u010dina Lu\u010de> <se_nahaja_v> <savinjska statisti\u010dna regija>.",
+      "<Ob\u010dina Lu\u010de> <ima_vrh> <Velika Raduha>.",
+      "<Ob\u010dina Lu\u010de> <ima_vrh> <Veliki Rogatec>.",
+      "<Ob\u010dina Lu\u010de> <ima_vrh> <Lu\u010dki Dedec>.",
+      "<Ob\u010dina Lu\u010de> <ima_povr\u0161ino> <109.5>.",
+      "<1444> <je_populacija_ob\u010dine> <Ob\u010dina Lu\u010de>.",
+      "<Ob\u010dina Lu\u010de> <ima_populacijo> <1444>."
+    ]
+  },
+  {
+    "question": "Koliko prebivalcev ima ob\u010dina Ob\u010dina Log - Dragomer?",
+    "answer": "3642",
+    "context_facts": [
+      "<Ob\u010dina Log - Dragomer> <ima_povr\u0161ino> <11.0>.",
+      "<Ob\u010dina Log - Dragomer> <se_nahaja_v> <osrednjeslovenska statisti\u010dna regija>.",
+      "<3642> <je_populacija_ob\u010dine> <Ob\u010dina Log - Dragomer>.",
+      "<Ob\u010dina Log - Dragomer> <ima_populacijo> <3642>."
+    ]
+  },
+  {
+    "question": "Pod kateri status kulturne dedi\u0161\u010dine spada grad Grad La\u0161ko?",
+    "answer": "registrirana nepremi\u010dna kulturna dedi\u0161\u010dina Slovenije",
+    "context_facts": [
+      "<registrirana nepremi\u010dna kulturna dedi\u0161\u010dina Slovenije> <ima_grad> <Grad Jeterbenk>.",
+      "<registrirana nepremi\u010dna kulturna dedi\u0161\u010dina Slovenije> <ima_grad> <Grad Rakovnik, \u0160entrupert>.",
+      "<Grad La\u0161ko> <se_nahaja_v> <Ob\u010dina La\u0161ko>.",
+      "<Grad La\u0161ko> <pripada_dedi\u0161\u010dini> <registrirana nepremi\u010dna kulturna dedi\u0161\u010dina Slovenije>.",
+      "<registrirana nepremi\u010dna kulturna dedi\u0161\u010dina Slovenije> <ima_grad> <Grad La\u0161ko>.",
+      "<registrirana nepremi\u010dna kulturna dedi\u0161\u010dina Slovenije> <ima_grad> <Grad Kamen>.",
+      "<registrirana nepremi\u010dna kulturna dedi\u0161\u010dina Slovenije> <ima_grad> <Arheolo\u0161ko obmo\u010dje Gobavica>.",
+      "<registrirana nepremi\u010dna kulturna dedi\u0161\u010dina Slovenije> <ima_grad> <Grad Vrhkrka>.",
+      "<registrirana nepremi\u010dna kulturna dedi\u0161\u010dina Slovenije> <ima_grad> <Grad Kolovrat>."
+    ]
+  },
+  {
+    "question": "Koliko prebivalcev ima ob\u010dina Ob\u010dina Ilirska Bistrica?",
+    "answer": "13337",
+    "context_facts": [
+      "<Ob\u010dina Ilirska Bistrica> <ima_grad> <Grad Voitsberg>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_grad> <Grad Prem>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_grad> <Arheolo\u0161ko obmo\u010dje Gradina>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_povr\u0161ino> <480.0>.",
+      "<13337> <je_populacija_ob\u010dine> <Ob\u010dina Ilirska Bistrica>.",
+      "<Ob\u010dina Ilirska Bistrica> <ima_populacijo> <13337>.",
+      "<Ob\u010dina Ilirska Bistrica> <se_nahaja_v> <primorsko-notranjska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine, kjer stoji grad Grad Borl?",
+    "answer": "32.07 km\u00b2",
+    "context_facts": [
+      "<Grad Borl> <se_nahaja_v> <Ob\u010dina Cirkulane>.",
+      "<Ob\u010dina Cirkulane> <se_nahaja_v> <podravska statisti\u010dna regija>.",
+      "<Ob\u010dina Cirkulane> <ima_grad> <Grad Borl>.",
+      "<Ob\u010dina Cirkulane> <ima_povr\u0161ino> <32.07>.",
+      "<32.07> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Cirkulane>.",
+      "<Grad Borl> <pripada_dedi\u0161\u010dini> <spomenik dr\u017eavnega pomena>.",
+      "<Ob\u010dina Cirkulane> <ima_populacijo> <2374>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini stoji grad Novi grad?",
+    "answer": "Ob\u010dina Preddvor",
+    "context_facts": [
+      "<Ob\u010dina Preddvor> <ima_vrh> <Stor\u017ei\u010d>.",
+      "<Ob\u010dina Preddvor> <ima_vrh> <Kal\u0161ki greben>.",
+      "<Ob\u010dina Preddvor> <ima_povr\u0161ino> <87.0>.",
+      "<Ob\u010dina Preddvor> <ima_vrh> <Grintovec>.",
+      "<Novi grad> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<Novi grad> <se_nahaja_v> <Ob\u010dina Preddvor>.",
+      "<Ob\u010dina Preddvor> <ima_grad> <Grad Turn>.",
+      "<Ob\u010dina Preddvor> <ima_populacijo> <3776>.",
+      "<Ob\u010dina Preddvor> <ima_grad> <Novi grad>.",
+      "<Ob\u010dina Preddvor> <ima_vrh> <Kal\u0161ka gora>.",
+      "<Ob\u010dina Preddvor> <se_nahaja_v> <gorenjska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Pod kateri status kulturne dedi\u0161\u010dine spada grad Grad Kacen\u0161tajn?",
+    "answer": "spomenik lokalnega pomena",
+    "context_facts": [
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Tu\u0161tanj>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Kamen>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Grinfels>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Gromperk>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Arheolo\u0161ko najdi\u0161\u010de Gradi\u0161\u010de>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad \u0160o\u0161tanj>.",
+      "<Grad Kacen\u0161tajn> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Kacen\u0161tajn>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Fala (spodnji grad)>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Muretinci>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Gracarjev turn>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini stoji grad Grad Reutenberg?",
+    "answer": "Ob\u010dina Sevnica",
+    "context_facts": [
+      "<Ob\u010dina Sevnica> <ima_povr\u0161ino> <272.17>.",
+      "<Ob\u010dina Sevnica> <ima_grad> <Grad Sevnica>.",
+      "<Ob\u010dina Sevnica> <ima_populacijo> <17729>.",
+      "<Ob\u010dina Sevnica> <ima_grad> <Grad Rek\u0161tanj>.",
+      "<Ob\u010dina Sevnica> <ima_vrh> <Lisca>.",
+      "<Ob\u010dina Sevnica> <ima_grad> <Grad Reutenberg>.",
+      "<Ob\u010dina Sevnica> <se_nahaja_v> <posavska statisti\u010dna regija>.",
+      "<Grad Reutenberg> <se_nahaja_v> <Ob\u010dina Sevnica>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Kladivo?",
+    "answer": "2094.0 m",
+    "context_facts": [
+      "<Kladivo> <ima_vi\u0161ino> <2094.0>.",
+      "<2094.0> <je_vi\u0161ina_vrha> <Kladivo>.",
+      "<Kladivo> <se_nahaja_v> <Ob\u010dina Tr\u017ei\u010d>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina \u0160kofljica?",
+    "answer": "43.3 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina \u0160kofljica> <ima_povr\u0161ino> <43.3>.",
+      "<Ob\u010dina \u0160kofljica> <ima_grad> <Grad Falkenberg>.",
+      "<43.3> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina \u0160kofljica>.",
+      "<Ob\u010dina \u0160kofljica> <se_nahaja_v> <osrednjeslovenska statisti\u010dna regija>.",
+      "<Ob\u010dina \u0160kofljica> <ima_populacijo> <11692>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Dobrovnik?",
+    "answer": "31.1 km\u00b2",
+    "context_facts": [
+      "<31.1> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Bistrica ob Sotli>.",
+      "<Ob\u010dina Dobrovnik> <ima_povr\u0161ino> <31.1>.",
+      "<Ob\u010dina Dobrovnik> <ima_populacijo> <1273>.",
+      "<31.1> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Dobrovnik>.",
+      "<Ob\u010dina Dobrovnik> <se_nahaja_v> <pomurska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Sol\u010dava?",
+    "answer": "102.8 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Sol\u010dava> <ima_povr\u0161ino> <102.8>.",
+      "<Ob\u010dina Sol\u010dava> <ima_populacijo> <524>.",
+      "<Ob\u010dina Sol\u010dava> <ima_vrh> <Veliki vrh>.",
+      "<102.8> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Sol\u010dava>.",
+      "<Ob\u010dina Sol\u010dava> <ima_vrh> <Krnitza>.",
+      "<Ob\u010dina Sol\u010dava> <se_nahaja_v> <savinjska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Logatec?",
+    "answer": "173.1 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Logatec> <se_nahaja_v> <osrednjeslovenska statisti\u010dna regija>.",
+      "<173.1> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Logatec>.",
+      "<Ob\u010dina Logatec> <ima_populacijo> <14514>.",
+      "<Ob\u010dina Logatec> <ima_povr\u0161ino> <173.1>.",
+      "<Ob\u010dina Logatec> <ima_grad> <Grad Logatec>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Ribnica?",
+    "answer": "153.6 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Ribnica> <se_nahaja_v> <statisti\u010dna regija jugovzhodna Slovenija>.",
+      "<Ob\u010dina Ribnica> <ima_povr\u0161ino> <153.6>.",
+      "<Ob\u010dina Ribnica> <ima_vrh> <Mala gora>.",
+      "<Ob\u010dina Ribnica> <ima_populacijo> <9619>.",
+      "<Ob\u010dina Ribnica> <ima_vrh> <Grmada nad Ortnekom>.",
+      "<153.6> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Ribnica>.",
+      "<Ob\u010dina Ribnica> <ima_grad> <Grad Ottenstein>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji stoji grad Grad Slavina?",
+    "answer": "primorsko-notranjska statisti\u010dna regija",
+    "context_facts": [
+      "<Ob\u010dina Postojna> <se_nahaja_v> <primorsko-notranjska statisti\u010dna regija>.",
+      "<Ob\u010dina Postojna> <ima_grad> <Grad Postojna>.",
+      "<primorsko-notranjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Cerknica>.",
+      "<Ob\u010dina Postojna> <ima_grad> <Grad Orehek>.",
+      "<primorsko-notranjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Postojna>.",
+      "<primorsko-notranjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Lo\u0161ka dolina>.",
+      "<primorsko-notranjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Pivka>.",
+      "<primorsko-notranjska statisti\u010dna regija> <ima_vrh> <Kopa (Slovenian Prealps)>.",
+      "<Ob\u010dina Postojna> <ima_populacijo> <16518>.",
+      "<Ob\u010dina Postojna> <ima_grad> <Grad Slavina>.",
+      "<Grad Slavina> <se_nahaja_v> <Ob\u010dina Postojna>.",
+      "<primorsko-notranjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Bloke>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Veliki vrh?",
+    "answer": "2060.0 m",
+    "context_facts": [
+      "<Veliki vrh> <se_nahaja_v> <Ob\u010dina \u017dirovnica>.",
+      "<Veliki vrh> <se_nahaja_v> <Ob\u010dina Radovljica>.",
+      "<2060.0> <je_vi\u0161ina_vrha> <Begunj\u0161\u010dica>.",
+      "<Veliki vrh> <ima_vi\u0161ino> <2060.0>.",
+      "<2060.0> <je_vi\u0161ina_vrha> <Veliki vrh>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega Korde\u017eeva glava?",
+    "answer": "2126.0 m",
+    "context_facts": [
+      "<Korde\u017eeva glava> <se_nahaja_v> <Ob\u010dina \u010crna na Koro\u0161kem>.",
+      "<2126.0> <je_vi\u0161ina_vrha> <Korde\u017eeva glava>.",
+      "<Korde\u017eeva glava> <ima_vi\u0161ino> <2126.0>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini le\u017ei vrh Krvavica?",
+    "answer": "Ob\u010dina Tabor",
+    "context_facts": [
+      "<Ob\u010dina Tabor> <ima_povr\u0161ino> <34.8>.",
+      "<Krvavica> <ima_vi\u0161ino> <909.0>.",
+      "<Krvavica> <se_nahaja_v> <Ob\u010dina Tabor>.",
+      "<Ob\u010dina Tabor> <ima_populacijo> <1667>.",
+      "<Ob\u010dina Tabor> <ima_vrh> <Krvavica>.",
+      "<Ob\u010dina Tabor> <se_nahaja_v> <savinjska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega \u0160pik?",
+    "answer": "2472.0 m",
+    "context_facts": [
+      "<\u0160pik> <se_nahaja_v> <Ob\u010dina Kranjska Gora>.",
+      "<2472.0> <je_vi\u0161ina_vrha> <\u0160pik>.",
+      "<\u0160pik> <ima_vi\u0161ino> <2472.0>."
+    ]
+  },
+  {
+    "question": "Pod kateri status kulturne dedi\u0161\u010dine spada grad Grad Komenda?",
+    "answer": "spomenik lokalnega pomena",
+    "context_facts": [
+      "<spomenik lokalnega pomena> <ima_grad> <Grad \u0160o\u0161tanj>.",
+      "<Grad Komenda> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Rek\u0161tanj>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Ravne>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Mokrice>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Ra\u010de>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Ajmanov grad>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Konjice>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Tabor nad Bota\u010dem>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Dravograd>.",
+      "<spomenik lokalnega pomena> <ima_grad> <Grad Vrbovec>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Dravograd?",
+    "answer": "105.0 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Dravograd> <ima_povr\u0161ino> <105.0>.",
+      "<105.0> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Dravograd>.",
+      "<Ob\u010dina Dravograd> <se_nahaja_v> <koro\u0161ka statisti\u010dna regija>.",
+      "<Ob\u010dina Dravograd> <ima_grad> <Grad Ojstrica>.",
+      "<Ob\u010dina Dravograd> <ima_grad> <Grad Dravograd>.",
+      "<Ob\u010dina Dravograd> <ima_populacijo> <8891>.",
+      "<Ob\u010dina Dravograd> <ima_vrh> <Kozji vrh>.",
+      "<Ob\u010dina Dravograd> <ima_vrh> <Ko\u0161enjak>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine, kjer stoji grad Ru\u0161evine gradu Stari grad?",
+    "answer": "147.8 km\u00b2",
+    "context_facts": [
+      "<147.8> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Diva\u010da>.",
+      "<Ob\u010dina Diva\u010da> <ima_grad> <Ru\u0161evine gradu Stari grad>.",
+      "<Ob\u010dina Diva\u010da> <se_nahaja_v> <Obalno-kra\u0161ka statisti\u010dna regija>.",
+      "<Ob\u010dina Diva\u010da> <ima_povr\u0161ino> <147.8>.",
+      "<Ru\u0161evine gradu Stari grad> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<Ob\u010dina Diva\u010da> <ima_grad> <Grad Seno\u017ee\u010de>.",
+      "<Ob\u010dina Diva\u010da> <ima_populacijo> <4255>.",
+      "<Ru\u0161evine gradu Stari grad> <se_nahaja_v> <Ob\u010dina Diva\u010da>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji stoji grad Grad Fojana?",
+    "answer": "gori\u0161ka statisti\u010dna regija",
+    "context_facts": [
+      "<Ob\u010dina Brda> <ima_grad> <Grad Cerovo>.",
+      "<Ob\u010dina Brda> <ima_populacijo> <5613>.",
+      "<Ob\u010dina Brda> <ima_grad> <Grad Vipol\u017ee>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Tolmin>.",
+      "<Ob\u010dina Brda> <ima_grad> <Grad Fojana>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Idrija>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_vrh> <Rombon>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Vipava>.",
+      "<Ob\u010dina Brda> <ima_povr\u0161ino> <72.0>.",
+      "<Grad Fojana> <se_nahaja_v> <Ob\u010dina Brda>.",
+      "<Ob\u010dina Brda> <se_nahaja_v> <gori\u0161ka statisti\u010dna regija>.",
+      "<Ob\u010dina Brda> <ima_grad> <Grad Rittersberg>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega More\u017e?",
+    "answer": "2261.0 m",
+    "context_facts": [
+      "<More\u017e> <se_nahaja_v> <Ob\u010dina Bovec>.",
+      "<2261.0> <je_vi\u0161ina_vrha> <More\u017e>.",
+      "<More\u017e> <ima_vi\u0161ino> <2261.0>."
+    ]
+  },
+  {
+    "question": "V kateri ob\u010dini le\u017ei vrh Cez Suho?",
+    "answer": "Ob\u010dina Bohinj",
+    "context_facts": [
+      "<Ob\u010dina Bohinj> <ima_vrh> <Kanjavec>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Debeli vrh>.",
+      "<Cez Suho> <se_nahaja_v> <Ob\u010dina Bohinj>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Kobla>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Mala Ti\u010darica>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Zeleni vrh>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Mali Dra\u0161ki vrh>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Brezovec>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Ogradi>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Studor>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Mi\u0161elj vrh>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine, kjer stoji grad Grad Pi\u0161ece?",
+    "answer": "268.1 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Bre\u017eice> <ima_vrh> <Goli Cirnik>.",
+      "<268.1> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Bre\u017eice>.",
+      "<Ob\u010dina Bre\u017eice> <ima_grad> <Grad Pi\u0161ece>.",
+      "<Ob\u010dina Bre\u017eice> <ima_grad> <Grad Bizeljsko>.",
+      "<Ob\u010dina Bre\u017eice> <ima_povr\u0161ino> <268.1>.",
+      "<Ob\u010dina Bre\u017eice> <ima_populacijo> <24250>.",
+      "<Grad Pi\u0161ece> <pripada_dedi\u0161\u010dini> <spomenik dr\u017eavnega pomena>.",
+      "<Grad Pi\u0161ece> <se_nahaja_v> <Ob\u010dina Bre\u017eice>.",
+      "<Ob\u010dina Bre\u017eice> <ima_grad> <grad Bre\u017eice>.",
+      "<Ob\u010dina Bre\u017eice> <se_nahaja_v> <posavska statisti\u010dna regija>.",
+      "<Ob\u010dina Bre\u017eice> <ima_grad> <Grad Mokrice>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji le\u017ei vrh Suhi vrh?",
+    "answer": "gori\u0161ka statisti\u010dna regija",
+    "context_facts": [
+      "<Ob\u010dina Bovec> <ima_povr\u0161ino> <367.3>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Vipava>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <Veliki Leme\u017e>.",
+      "<Ob\u010dina Bovec> <se_nahaja_v> <gori\u0161ka statisti\u010dna regija>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Kobarid>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_vrh> <Rombon>.",
+      "<Ob\u010dina Bovec> <ima_vrh> <Suhi vrh>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Bovec>.",
+      "<Suhi vrh> <se_nahaja_v> <Ob\u010dina Bovec>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Cerkno>.",
+      "<gori\u0161ka statisti\u010dna regija> <ima_vrh> <Mount Kuk>.",
+      "<Ob\u010dina Bovec> <ima_populacijo> <3193>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je populacija ob\u010dine, v kateri le\u017ei vrh Goli Cirnik?",
+    "answer": "24250",
+    "context_facts": [
+      "<Ob\u010dina Bre\u017eice> <ima_povr\u0161ino> <268.1>.",
+      "<Ob\u010dina Bre\u017eice> <se_nahaja_v> <posavska statisti\u010dna regija>.",
+      "<Ob\u010dina Bre\u017eice> <ima_grad> <grad Bre\u017eice>.",
+      "<24250> <je_populacija_ob\u010dine> <Ob\u010dina Bre\u017eice>.",
+      "<Goli Cirnik> <ima_vi\u0161ino> <630.0>.",
+      "<Ob\u010dina Bre\u017eice> <ima_populacijo> <24250>.",
+      "<Ob\u010dina Bre\u017eice> <ima_vrh> <Goli Cirnik>.",
+      "<Ob\u010dina Bre\u017eice> <ima_grad> <Grad Mokrice>.",
+      "<Goli Cirnik> <se_nahaja_v> <Ob\u010dina Bre\u017eice>.",
+      "<Ob\u010dina Bre\u017eice> <ima_grad> <Grad Pi\u0161ece>.",
+      "<Ob\u010dina Bre\u017eice> <ima_grad> <Grad Bizeljsko>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji stoji grad Arheolo\u0161ko najdi\u0161\u010de Gradi\u0161\u010de?",
+    "answer": "savinjska statisti\u010dna regija",
+    "context_facts": [
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160o\u0161tanj>.",
+      "<Ob\u010dina \u0160entjur> <se_nahaja_v> <savinjska statisti\u010dna regija>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160tore>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Zre\u010de>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Rogatec>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Tabor>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160martno ob Paki>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Vransko>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Braslov\u010de>.",
+      "<Arheolo\u0161ko najdi\u0161\u010de Gradi\u0161\u010de> <se_nahaja_v> <Ob\u010dina \u0160entjur>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Re\u010dica ob Savinji>.",
+      "<savinjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u017dalec>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine, kjer stoji grad Grad Konjice?",
+    "answer": "97.8 km\u00b2",
+    "context_facts": [
+      "<97.8> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Slovenske Konjice>.",
+      "<Ob\u010dina Slovenske Konjice> <se_nahaja_v> <savinjska statisti\u010dna regija>.",
+      "<Grad Konjice> <se_nahaja_v> <Ob\u010dina Slovenske Konjice>.",
+      "<Grad Konjice> <pripada_dedi\u0161\u010dini> <spomenik lokalnega pomena>.",
+      "<Ob\u010dina Slovenske Konjice> <ima_povr\u0161ino> <97.8>.",
+      "<Ob\u010dina Slovenske Konjice> <ima_populacijo> <15161>.",
+      "<Ob\u010dina Slovenske Konjice> <ima_grad> <Grad Konjice>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji le\u017ei vrh Veliki vrh?",
+    "answer": "gorenjska statisti\u010dna regija",
+    "context_facts": [
+      "<Ob\u010dina Jesenice> <ima_vrh> <Vajne\u017e>.",
+      "<Ob\u010dina Jesenice> <se_nahaja_v> <gorenjska statisti\u010dna regija>.",
+      "<Ob\u010dina Jesenice> <ima_vrh> <Pti\u010dji vrh>.",
+      "<Ob\u010dina Jesenice> <ima_vrh> <Golica>.",
+      "<Veliki vrh> <se_nahaja_v> <Ob\u010dina Jesenice>.",
+      "<Veliki vrh> <ima_vi\u0161ino> <2060.0>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Gorenja vas - Poljane>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Preddvor>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Tr\u017ei\u010d>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Gorje>.",
+      "<Ob\u010dina Jesenice> <ima_vrh> <Ledinski vrh>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Jesenice>."
+    ]
+  },
+  {
+    "question": "V kateri statisti\u010dni regiji le\u017ei vrh Kanjavec?",
+    "answer": "gorenjska statisti\u010dna regija",
+    "context_facts": [
+      "<Ob\u010dina Bohinj> <ima_vrh> <Vogel>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina \u0160kofja Loka>.",
+      "<Kanjavec> <se_nahaja_v> <Ob\u010dina Bohinj>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Tolminski Kuk>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Jezersko>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Kobla>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <\u0160avnik (vrh)>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Kranjska Gora>.",
+      "<Ob\u010dina Bohinj> <se_nahaja_v> <gorenjska statisti\u010dna regija>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Bled>.",
+      "<Ob\u010dina Bohinj> <ima_vrh> <Rodica>.",
+      "<gorenjska statisti\u010dna regija> <ima_ob\u010dino> <Ob\u010dina Jesenice>."
+    ]
+  },
+  {
+    "question": "Kak\u0161no nadmorsko vi\u0161ino dosega More\u017e?",
+    "answer": "2261.0 m",
+    "context_facts": [
+      "<More\u017e> <se_nahaja_v> <Ob\u010dina Bovec>.",
+      "<2261.0> <je_vi\u0161ina_vrha> <More\u017e>.",
+      "<More\u017e> <ima_vi\u0161ino> <2261.0>."
+    ]
+  },
+  {
+    "question": "Koliko prebivalcev ima ob\u010dina Ob\u010dina Zagorje ob Savi?",
+    "answer": "16402",
+    "context_facts": [
+      "<Ob\u010dina Zagorje ob Savi> <ima_grad> <Grad Kolovrat>.",
+      "<Ob\u010dina Zagorje ob Savi> <ima_grad> <Grad Rovi\u0161\u010de>.",
+      "<Ob\u010dina Zagorje ob Savi> <ima_populacijo> <16402>.",
+      "<Ob\u010dina Zagorje ob Savi> <ima_povr\u0161ino> <147.1>.",
+      "<16402> <je_populacija_ob\u010dine> <Ob\u010dina Zagorje ob Savi>.",
+      "<Ob\u010dina Zagorje ob Savi> <se_nahaja_v> <zasavska statisti\u010dna regija>."
+    ]
+  },
+  {
+    "question": "Kak\u0161na je povr\u0161ina ob\u010dine Ob\u010dina Prevalje?",
+    "answer": "58.1 km\u00b2",
+    "context_facts": [
+      "<Ob\u010dina Prevalje> <se_nahaja_v> <koro\u0161ka statisti\u010dna regija>.",
+      "<Ob\u010dina Prevalje> <ima_populacijo> <6829>.",
+      "<58.1> <je_povr\u0161ina_ob\u010dine> <Ob\u010dina Prevalje>.",
+      "<Ob\u010dina Prevalje> <ima_povr\u0161ino> <58.1>."
+    ]
+  }
+]
